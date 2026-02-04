@@ -10,9 +10,9 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Logged** | 0 |
+| **Total Series Logged** | 1 |
 | **Series Completed** | 0 |
-| **Currently Watching** | 0 |
+| **Currently Watching** | 1 |
 | **Total Episodes Watched** | 0 |
 | **Total Watch Time** | 0h 0m |
 | **Average Episode Length** | N/A |
@@ -25,8 +25,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Year** | **Series Watched** | **Total Runtime** | **Series** |
 |:---:|:---:|:---:|:---|
-
-*No series logged yet.*
+| 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 
 ---
 
@@ -40,7 +39,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 0 | 0h 0m | N/A |
+| Horror | 1 | 0h 0m | N/A |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 | Anime | 0 | 0h 0m | N/A |
 
@@ -52,8 +51,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
-
-*No viewing data yet.*
+| February 2026 | 1 | 0 | 0h 0m |
 
 ---
 
@@ -70,8 +68,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Series** | **Current Episode** | **Total Episodes** | **Progress** |
 |:---|:---:|:---:|:---:|
-
-*No series currently in progress.*
+| [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | 0 | TBD | Just Started |
 
 ---
 

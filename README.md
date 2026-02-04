@@ -26,11 +26,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **0 Series** | *Stories Documented* |
+| **📜 Series Logged** | **1 Series** | *Stories Documented* |
 | **⏳ Hours Watched** | **0h 0m** | *Total Watch Time* |
 | **📺 Episodes Watched** | **0 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **0 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -39,7 +39,9 @@
 
 ## 📺 Currently Watching
 
-*No series currently in progress. Time to start a new adventure!*
+| **Series** | **Platform** | **Started** | **Status** |
+|:---|:---:|:---:|:---:|
+| [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Home | Feb 4, 2026 | Watching |
 
 ---
 
@@ -124,8 +126,7 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first horror series!*
+| [Bhay (Season 1)](titles/bhay/season_1.md) | 2025 | TBD | TBD | Watching | Home |
 
 ---
 
