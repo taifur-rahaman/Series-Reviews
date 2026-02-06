@@ -20,6 +20,12 @@ Series-Reviews/
 
 (Same as before)
 
+## 🎯 Anime Categories
+
+- **Slice of Life & Gourmet**
+- **Action & Fantasy**
+- **Drama & Romance**
+
 ## 📝 How to Add a New Series/Season
 
 1. **Create a series directory** in `titles/`:

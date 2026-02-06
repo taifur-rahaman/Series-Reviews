@@ -18,7 +18,11 @@
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
-| └─ [🎯 Anime](#-anime) | Japanese animated series |
+| └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
+| [🎯 Anime](#-anime) | Japanese animated series by genre |
+| └─ [🍕 Slice of Life & Gourmet](#-slice-of-life--gourmet) | Daily life and delicious food |
+| └─ [⚔️ Action & Fantasy](#-action--fantasy) | Battles and magical worlds |
+| └─ [🎭 Drama & Romance](#-drama--romance) | Emotional stories and relationships |
 
 ---
 
@@ -26,11 +30,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **2 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **6h 0m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **24 Episodes** | *Episodes Completed* |
+| **📜 Series Logged** | **3 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **6h 24m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **25 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **1 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
 ---
 
@@ -142,15 +146,32 @@
 
 ---
 
-### 🎯 Anime
+
+---
+
+## 🎯 Anime
 *Japanese Animation Excellence*
 
 <p><em>From shonen battles to slice-of-life stories, from mecha epics to supernatural mysteries—anime offers storytelling that transcends cultural boundaries. These series blend stunning animation with compelling narratives that resonate across genres.</em></p>
 
+### 🍕 Slice of Life & Gourmet
+
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
 | [Isekai Izakaya (Season 1)](titles/isekai_izakaya/season_1.md) | 2018 | ★★★★⯪ | 24 | Completed | Home |
+
+### ⚔️ Action & Fantasy
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | TBD | 12 | Watching | Home |
+
+### 🎭 Drama & Romance
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+*No series logged yet.*
+
 
 ---
 
