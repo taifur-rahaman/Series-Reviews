@@ -48,6 +48,7 @@
 | **Series** | **Platform** | **Started** | **Status** |
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Home | Feb 4, 2026 | Watching |
+| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | Home | Feb 6, 2026 | Watching |
 
 ---
 
