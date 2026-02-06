@@ -10,11 +10,11 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Logged** | 1 |
-| **Series Completed** | 0 |
+| **Total Series Logged** | 2 |
+| **Series Completed** | 1 |
 | **Currently Watching** | 1 |
-| **Total Episodes Watched** | 0 |
-| **Total Watch Time** | 0h 0m |
+| **Total Episodes Watched** | 24 |
+| **Total Watch Time** | 6h 0m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -26,6 +26,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Year** | **Series Watched** | **Total Runtime** | **Series** |
 |:---:|:---:|:---:|:---|
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
+| 2018 | 1 | 6h 0m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md) |
 
 ---
 
@@ -41,7 +42,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | Romance | 0 | 0h 0m | N/A |
 | Horror | 1 | 0h 0m | N/A |
 | Mystery & Crime | 0 | 0h 0m | N/A |
-| Anime | 0 | 0h 0m | N/A |
+| Anime | 1 | 6h 0m | ★★★★⯪ |
 
 ---
 
@@ -51,7 +52,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 0 | 0h 0m |
+| February 2026 | 2 | 24 | 6h 0m |
 
 ---
 

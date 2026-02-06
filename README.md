@@ -26,10 +26,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **1 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **0h 0m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **0 Episodes** | *Episodes Completed* |
-| **✅ Series Completed** | **0 Series** | *Journeys Finished* |
+| **📜 Series Logged** | **2 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **6h 0m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **24 Episodes** | *Episodes Completed* |
+| **✅ Series Completed** | **1 Series** | *Journeys Finished* |
 | **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
@@ -150,7 +150,7 @@
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-*No series logged yet. Add your first anime!*
+| [Isekai Izakaya (Season 1)](titles/isekai_izakaya/season_1.md) | 2018 | ★★★★⯪ | 24 | Completed | Home |
 
 ---
 
