@@ -48,8 +48,10 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Genre** | **Series Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Slice of Life & Gourmet | 1 | 6h 0m | ★★★★⯪ |
-| Action & Fantasy | 1 | 0h 24m | TBD |
+| Isekai | 2 | 6h 24m | TBD |
+| Slice of Life | 0 | 0h 0m | N/A |
+| Gourmet | 0 | 0h 0m | N/A |
+| Action & Fantasy | 0 | 0h 0m | N/A |
 | Drama & Romance | 0 | 0h 0m | N/A |
 
 ---
@@ -86,5 +88,6 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 - This document is automatically updated as new series are logged
 - Runtime includes only the actual episode length, not including credits (unless noted)
+- **Note on Genres:** Statistics are calculated based on the *primary* genre of a series to avoid double-counting, even if a series is listed under multiple categories in the README.
 - Ratings are based on the Keeper's personal 5-star scale
 - Episode counts may vary based on platform and regional availability

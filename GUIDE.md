@@ -22,7 +22,9 @@ Series-Reviews/
 
 ## 🎯 Anime Categories
 
-- **Slice of Life & Gourmet**
+- **Isekai**
+- **Slice of Life**
+- **Gourmet**
 - **Action & Fantasy**
 - **Drama & Romance**
 
@@ -43,6 +45,7 @@ Series-Reviews/
 4. **Update README.md**:
    - Add entry linking to the specific season file
    - Format: `[Series Name (Season X)](titles/[series_name]/season_[x].md)`
+   - **Note**: You can list a series under multiple genre categories if it fits.
 
 5. **Update temporal_distribution.md**:
    - Add to release year and viewing timeline

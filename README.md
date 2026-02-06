@@ -20,7 +20,9 @@
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
 | [🎯 Anime](#-anime) | Japanese animated series by genre |
-| └─ [🍕 Slice of Life & Gourmet](#-slice-of-life--gourmet) | Daily life and delicious food |
+| └─ [� Isekai](#-isekai) | Reincarnated or transported to another world |
+| └─ [�🍕 Slice of Life](#-slice-of-life) | Daily life stories |
+| └─ [🍱 Gourmet](#-gourmet) | Delicious food and cooking |
 | └─ [⚔️ Action & Fantasy](#-action--fantasy) | Battles and magical worlds |
 | └─ [🎭 Drama & Romance](#-drama--romance) | Emotional stories and relationships |
 
@@ -154,7 +156,20 @@
 
 <p><em>From shonen battles to slice-of-life stories, from mecha epics to supernatural mysteries—anime offers storytelling that transcends cultural boundaries. These series blend stunning animation with compelling narratives that resonate across genres.</em></p>
 
-### 🍕 Slice of Life & Gourmet
+### � Isekai
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Isekai Izakaya (Season 1)](titles/isekai_izakaya/season_1.md) | 2018 | ★★★★⯪ | 24 | Completed | Home |
+| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | TBD | 12 | Watching | Home |
+
+### 🍕 Slice of Life
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+*No series logged yet.*
+
+### 🍱 Gourmet
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
