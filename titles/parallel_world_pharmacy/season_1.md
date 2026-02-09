@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 06, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 2                           |
+| Episodes Watched   | 3                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -36,9 +36,22 @@ This episode had such a warm, cozy vibe that just made me feel good watching it.
 
 What really impressed me was the level of detail in the pharmaceutical explanations. This isn't just surface-level "magic medicine"—Farma goes deep into the actual chemistry, breaking down molecular structures and explaining the scientific principles behind each remedy. It reminds me a lot of [Isekai Izakaya](../isekai_izakaya/season_1.md), where they dive into ingredients, cooking techniques, and flavor profiles in great detail. Here, instead of describing how a dish tastes, Farma's explaining chemical compounds, elemental compositions, and how medicines work at a molecular level. It's surprisingly educational while still being entertaining.
 
+**(Episode 3)**
+Farma's courage in this episode is absolutely astonishing. The fact that he had the guts to speak up in a room full of court physicians, with Her Majesty the Queen literally on her deathbed from the White Death (tuberculosis), takes serious bravery. A REAL MAN moment right there. And then to stand up to both his father—the Archduke—and the royal physician to insist on creating his own medicine to cure the Queen? That's next-level conviction.
+
+What's interesting is the Queen's decision to trust an unknown boy with an unknown medicine. On the surface, it seems reckless, but when you're facing certain death, what choice do you really have? It's either take the risk or die anyway. So yeah, it's actually pretty understandable when you think about it—desperation makes you willing to try anything.
+
 ## Characters & Development
 
-**Falma de Médicis** seems to be a protagonist driven by genuine altruism rather than just power fantasy. His motivation comes from his past trauma of losing his sister.
+**Falma de Médicis** is a protagonist driven by genuine altruism rather than just power fantasy. His motivation comes from his past trauma of losing his sister in his previous life, which fuels his determination to save people using his modern pharmaceutical knowledge combined with divine powers. What makes him stand out is his incredible courage—he's willing to challenge authority figures, including his own father and the royal physician, when he knows he can save lives. He's not just powerful; he's principled and brave.
+
+**Blanche de Médicis** is Farma's younger sister and she's absolutely adorable. She has this sweet, caring personality that's genuinely lovable. The sibling bond between her and Farma is heartwarming—she clearly looks up to him and supports him. She's the kind of character that makes you wish you had a little sister like her.
+
+**Lotte** is one of my favorite characters so far. She's a maid who works for the de Médicis family and has a warm, supportive presence. Her interactions with Farma show genuine care and concern, and she's always there to help when needed. There's something really endearing about her character that makes her stand out.
+
+**Bruno de Médicis (The Archduke)** is Farma's father and serves as the court's head pharmacist. He's a traditional authority figure who initially represents the old guard of medical practice. In Episode 3, we see the tension between him and Farma when his son challenges established medical protocols to save the Queen. Despite his position and pride, there's an underlying sense that he cares about his son, even when they clash.
+
+**The Queen** appears in Episode 3 on her deathbed, suffering from the White Death (tuberculosis). Her decision to trust Farma—an unknown boy with an unknown medicine—shows her desperation but also her willingness to take risks when facing certain death. It's a pragmatic choice: either try something unconventional or die anyway.
 
 ## Production & Direction
 
@@ -70,6 +83,17 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
   - It reminds me a lot of [Isekai Izakaya](../isekai_izakaya/season_1.md), where characters go into detail about ingredients, cooking methods, and flavor profiles. Except here, instead of describing how delicious something tastes, Farma's explaining chemical compounds and how medicines work at a molecular level. It's educational without being boring.
 - **Rating:** ★★★★★ (5/5)
 - **Notes:** One of the best episodes. Perfect blend of heartwarming character moments with Blanche and incredibly detailed pharmaceutical explanations.
+
+---
+
+### Episode 3
+- **Date Watched**: February 10, 2026
+- **Observations**:
+  - Farma's courage in this episode is genuinely astonishing. Speaking up in a room full of court physicians with Her Majesty the Queen on her deathbed from the White Death (tuberculosis) takes incredible guts. A REAL MAN moment.
+  - Then he goes even further—standing up to his own father, the Archduke, AND the royal physician to insist on creating his own medicine to cure the Queen. That level of conviction and confidence in his knowledge is next-level impressive.
+  - The Queen's decision to trust an unknown boy with an unknown medicine seems reckless at first glance, but when you're facing certain death, what choice do you really have? It's either take the risk or die anyway. Desperation makes the decision pretty understandable, honestly.
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** Another exceptional episode. Farma's bravery and conviction shine through as he challenges authority to save the Queen's life.
 
 ---
 
