@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 06, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 1                           |
+| Episodes Watched   | 2                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -27,7 +27,14 @@ A famous medical researcher in modern Japan works himself to death trying to sav
 ## Story & Narrative
 
 **(Episode 1)**
-The premise is a classic isekai but with a very focused medical twist. The contrast between his previous overworked life where he lost his sister to illness and his new opportunity to cure people with magic is compelling. The scene where he discovers his powers (and the lack of a shadow) sets up a nice mystery about the nature of his reincarnation.
+The premise is a classic isekai setup, but with a really focused medical twist that sets it apart. What makes it compelling is the contrast between Farma's previous life—where he worked himself to death trying to save people and lost his sister to illness—and this new opportunity to actually cure people using a combination of modern pharmaceutical knowledge and divine magic. 
+
+The scene where he discovers his powers is handled really well, especially the moment he realizes he has no shadow. It sets up this intriguing mystery about the nature of his reincarnation and what it means to be blessed by the God of Medicine. The whole "creation" and "deletion" abilities tied to molecular structures is such a cool power system for a pharmacist protagonist.
+
+**(Episode 2)**
+This episode had such a warm, cozy vibe that just made me feel good watching it. Blanche absolutely stole the show for me—she's genuinely adorable and has this sweet, caring personality that makes you wish you had a little sister like her. The sibling dynamic between her and Farma is heartwarming.
+
+What really impressed me was the level of detail in the pharmaceutical explanations. This isn't just surface-level "magic medicine"—Farma goes deep into the actual chemistry, breaking down molecular structures and explaining the scientific principles behind each remedy. It reminds me a lot of [Isekai Izakaya](../isekai_izakaya/season_1.md), where they dive into ingredients, cooking techniques, and flavor profiles in great detail. Here, instead of describing how a dish tastes, Farma's explaining chemical compounds, elemental compositions, and how medicines work at a molecular level. It's surprisingly educational while still being entertaining.
 
 ## Characters & Development
 
@@ -45,8 +52,24 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
 ## Episode Breakdown
 
 ### Episode 1: The Boy Reincarnated in Another World and the Pharmacy of Another World
+- **Date Watched**: February 6, 2026
+- **Observations**:
+  - The animation quality is really solid, and the story hooked me right away. The whole premise of a modern pharmacist being reincarnated in a fantasy world is such a fresh take on the isekai genre. I'm genuinely excited to see how this develops.
+  - What makes Farma unique is his ability to see the molecular structure of everything around him and literally create or destroy matter at the atomic level. It's a fascinating power system that ties directly into his expertise as a pharmacist—he can craft medicine from scratch using his scientific knowledge combined with divine magic.
+  - The setup has me really invested. There's so much potential here for both the medical mystery angle and the character development, especially with his motivation to save people after losing his sister in his previous life.
 - **Rating:** ★★★★☆ (4/5)
-- **Notes:** Good setup. He realizes he's in a different body and world. Discovering his "creation" and "deletion" powers. He decides to use his knowledge to save people, starting with his new mother? (or at least diagnosing). The magic system seems tied to chemical structures which is cool for a pharmacist.
+- **Notes:** Good setup. He realizes he's in a different body and world. Discovering his "creation" and "deletion" powers. He decides to use his knowledge to save people. The magic system seems tied to chemical structures which is cool for a pharmacist.
+
+---
+
+### Episode 2
+- **Date Watched**: February 9, 2026
+- **Observations**:
+  - This episode had such a warm, cozy atmosphere that made it a joy to watch. Blanche completely won me over—she's incredibly cute and lovable with this genuinely caring personality. Honestly made me wish I had a little sister like her. The sibling bond between her and Farma is really sweet.
+  - The pharmaceutical terminology and explanations in this episode are seriously impressive. Farma doesn't just wave his hands and make magic medicine—he actually breaks down the chemistry, explaining molecular structures, elemental compositions, and the scientific principles behind each treatment.
+  - It reminds me a lot of [Isekai Izakaya](../isekai_izakaya/season_1.md), where characters go into detail about ingredients, cooking methods, and flavor profiles. Except here, instead of describing how delicious something tastes, Farma's explaining chemical compounds and how medicines work at a molecular level. It's educational without being boring.
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** One of the best episodes. Perfect blend of heartwarming character moments with Blanche and incredibly detailed pharmaceutical explanations.
 
 ---
 
