@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 06, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 3                           |
+| Episodes Watched   | 4                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -94,6 +94,18 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
   - The Queen's decision to trust an unknown boy with an unknown medicine seems reckless at first glance, but when you're facing certain death, what choice do you really have? It's either take the risk or die anyway. Desperation makes the decision pretty understandable, honestly.
 - **Rating:** ★★★★★ (5/5)
 - **Notes:** Another exceptional episode. Farma's bravery and conviction shine through as he challenges authority to save the Queen's life.
+
+---
+
+### Episode 4
+- **Date Watched**: February 10, 2026
+- **Observations**:
+  - This was a quite good episode with some really impressive character moments. I loved how the queen's errand boy casually struck up a conversation with Farma and managed to find out about Farma's biggest dream. It's pretty obvious the Queen orchestrated this—she wanted to understand what drives him.
+  - The conversation between the Queen and Farma was genuinely impressive. The way Farma helped shift the Queen's perspective, encouraging her to find new purpose in her second life (since he saved her from certain death), mirrors his own journey. He's doing the same thing—living a second life with purpose. That parallel is beautifully done.
+  - I absolutely adore how the Queen forced Farma to take initiative on his dream. She didn't just give him permission—she made him design, create, and even name the pharmacy all by himself. It's tough love that pushes him to own his vision completely.
+  - Bruno's support was heartwarming. Not only did he provide the funding for Farma's pharmacy, but he went as far as firing his loyal household accountant Cedric so that Cedric could go work with Farma at the Parallel World Pharmacy. That's a father believing in his son's dream and making real sacrifices to support it.
+- **Rating:** ★★★★½ (4.5/5)
+- **Notes:** Great episode focusing on character development and relationships. The Queen's mentorship and Bruno's support really stand out.
 
 ---
 

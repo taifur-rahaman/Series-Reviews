@@ -33,8 +33,8 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Series Logged** | **3 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **6h 24m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **25 Episodes** | *Episodes Completed* |
+| **⏳ Hours Watched** | **7h 20m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **28 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **1 Series** | *Journeys Finished* |
 | **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
