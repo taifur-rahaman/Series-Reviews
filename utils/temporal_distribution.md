@@ -13,8 +13,8 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Total Series Logged** | 3 |
 | **Series Completed** | 1 |
 | **Currently Watching** | 2 |
-| **Total Episodes Watched** | 31 |
-| **Total Watch Time** | 8h 32m |
+| **Total Episodes Watched** | 32 |
+| **Total Watch Time** | 8h 56m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -26,7 +26,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Year** | **Series Watched** | **Total Runtime** | **Series** |
 |:---:|:---:|:---:|:---|
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
-| 2022 | 1 | 2h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
+| 2022 | 1 | 3h 12m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
 | 2018 | 1 | 6h 0m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md) |
 
 ---
@@ -48,7 +48,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Genre** | **Series Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Isekai | 2 | 8h 32m | TBD |
+| Isekai | 2 | 8h 56m | TBD |
 | Slice of Life | 0 | 0h 0m | N/A |
 | Gourmet | 0 | 0h 0m | N/A |
 | Action & Fantasy | 0 | 0h 0m | N/A |
@@ -62,7 +62,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 3 | 31 | 8h 32m |
+| February 2026 | 3 | 32 | 8h 56m |
 
 ---
 
@@ -80,7 +80,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Series** | **Current Episode** | **Total Episodes** | **Progress** |
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | 0 | TBD | Just Started |
-| [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 7 | 12 | 58% |
+| [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 8 | 12 | 67% |
 
 ---
 

@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 06, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 7                           |
+| Episodes Watched   | 8                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -145,6 +145,19 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
   - Salomon also gifts Farma two incredibly significant items. One is the staff of the medicine god—a symbol of his divine role and authority. The other is an artifact that creates his shadow, solving that whole "no shadow" problem that's been marking him as different and suspicious. Both gifts are deeply meaningful and practical.
 - **Rating:** ★★★½☆ (3.5/5)
 - **Notes:** Solid episode with intense action and important character development. The fight was well-executed, and the revelation about Farma's true nature was satisfying. Salomon's transformation from antagonist to ally is compelling. The pacing felt a bit rushed in places, especially the time skip to Salomon becoming a Bishop, but overall a strong continuation of the church conflict arc.
+
+---
+
+### Episode 8
+- **Date Watched**: February 11, 2026
+- **Observations**:
+  - This episode is basically about the old pharmacist guild getting salty because Farma's modern medicine is way better than theirs. It's the classic conflict between outdated tradition and actual scientific progress, and you can feel the tension building throughout the entire episode.
+  - A small-town pharmacist named Pierre has a daughter who gets influenza. Desperate to save her, he goes to Farma for help, even though the guild is completely against him. Farma treats the girl properly, charges fairly, and she recovers quickly. Pierre realizes firsthand just how effective Farma's methods really are compared to the old guild's practices.
+  - When Pierre tells the guild about it, the guild leader absolutely freaks out and kicks him out. They even go as far as destroying his shop. That's how threatened they feel by Farma's success—they're willing to ruin a fellow pharmacist's livelihood just to maintain their monopoly on outdated practices.
+  - But Farma steps in and forms a new guild with the queen's support, and helps Pierre reopen his pharmacy. It's a powerful move that shows Farma isn't just about individual healing—he's actively working to reform the entire medical system.
+  - It's the start of a big shift in this world—old, ego-driven tradition vs actual science and compassion. And science is starting to win.
+- **Rating:** ★★★☆☆ (3/5)
+- **Notes:** Solid episode that sets up the institutional conflict between traditional guild practices and modern medicine. The Pierre storyline was compelling and showed the real-world impact of Farma's work. The guild's petty destruction of Pierre's shop felt realistic for people clinging to power. Formation of the new guild is a significant plot development.
 
 ---
 
