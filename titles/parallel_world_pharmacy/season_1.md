@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 06, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 6                           |
+| Episodes Watched   | 7                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -131,6 +131,20 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
   - The tension at the end is real. Farma's walking into danger, and we know it, but does he? The church sees his divine powers as a threat to their authority, not as a blessing. This is setting up a serious conflict, and I'm genuinely worried about what's going to happen next episode. The stakes just got WAY higher.
 - **Rating:** ★★★★☆ (4/5)
 - **Notes:** Intense episode that shifts from reward and celebration to life-threatening danger. The drowning scene was emotionally powerful, connecting Farma's past trauma to his present actions. The church conflict introduces a new antagonist force that could threaten everything Farma's built. Really strong character development and plot progression, though the pacing felt a bit rushed in the second half.
+
+---
+
+### Episode 7
+- **Date Watched**: February 11, 2026
+- **Observations**:
+  - Okay, so the stakes just got REAL. The ones who came to capture Farma aren't just some random church guards—they're the most elite squad of the Holy Church. And let me be clear: in this world, the Holy Church isn't just a religious organization. They hold actual state authority. They have the power to overthrow kingdoms, to depose queens and kings. So when their elite inquisition squad shows up, that's INTENSE. This is basically the fantasy equivalent of a special forces unit coming after you.
+  - The fight between the inquisition squad and Farma was short but absolutely intense. You can feel the tension, the danger, the sheer power on both sides. And then at the end of the fight, the shockwave created by Farma's magic made the leader of the squad's horse get scared and throw him off. The leader—Salomon—loses control, falls, and breaks his leg AND spine. In a world with medieval technological advancement, that's basically a death sentence. Those kinds of injuries? Fatal. There's no modern surgery, no advanced medical care.
+  - But here's where Farma's brilliance shines through again. He uses his modern medicinal knowledge to stabilize Salomon and literally save him from imminent death. Think about that—Farma just fought this man, and now he's saving his life. That's the kind of person he is. He's not vindictive, not cruel. He's a healer first and foremost.
+  - And this act changes everything. The inquisition squad finally understands: Farma is NOT a heretic. He's the vessel to the God of Medicine himself. The reason he doesn't have a shadow? It's because he IS the light itself. That's such a powerful revelation and it completely reframes everything they thought they knew about him.
+  - Fast forward several months after that fight, and Salomon—the leader of the inquisition squad—becomes a Bishop. And why? So that he could help Farma (the vessel of the medicine god) in any way he could. That's dedication. That's respect. Salomon went from trying to capture Farma to becoming one of his most powerful allies.
+  - Salomon also gifts Farma two incredibly significant items. One is the staff of the medicine god—a symbol of his divine role and authority. The other is an artifact that creates his shadow, solving that whole "no shadow" problem that's been marking him as different and suspicious. Both gifts are deeply meaningful and practical.
+- **Rating:** ★★★½☆ (3.5/5)
+- **Notes:** Solid episode with intense action and important character development. The fight was well-executed, and the revelation about Farma's true nature was satisfying. Salomon's transformation from antagonist to ally is compelling. The pacing felt a bit rushed in places, especially the time skip to Salomon becoming a Bishop, but overall a strong continuation of the church conflict arc.
 
 ---
 
