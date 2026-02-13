@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 13, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 21                          |
-| Episodes Watched   | 1                           |
+| Episodes Watched   | 2                           |
 | Average Runtime    | 22 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -32,6 +32,9 @@ The pilot establishes the central dynamic perfectly: Dave Johnson is the kind of
 Dave keeps trying to bond through small talk and neighborly gestures, but Calvin isn't having it. He's skeptical of Dave's intentions and wary of what this change means for his community. Meanwhile, their wives are more open-minded and practical, helping to ease some of the tension between the two men.
 
 By the end of the episode, they don't exactly become friends, but there's a small shift—Calvin starts to see that Dave might genuinely mean well, even if his approach is exhausting. It's a good setup for the series: two completely different people with different backgrounds and perspectives learning to coexist.
+
+**(Episode 2)**
+Dave is still operating on "Maximum Golden Retriever Mode," trying to earn neighborhood approval like it’s a side quest, while Calvin is guarding his emotional front yard with invisible barbed wire. The episode leans into the awkwardness of Dave trying way too hard to fit in, and Calvin being deeply allergic to forced bonding. However, the edges soften a bit—Calvin feels less like "the grumpy guy" and more like someone who just doesn't trust instant sincerity. It's becoming a slow-burn rivalry-turned-friendship.
 
 ## Characters & Development
 
@@ -60,8 +63,20 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
   - Dave Johnson moves his family from Michigan to a mostly Black neighborhood in Los Angeles, believing his super-friendly personality will win everyone over. He immediately tries to connect with his new neighbors, especially Calvin Butler, but Calvin isn't impressed.
   - Calvin is protective of his neighborhood and skeptical of Dave's overly cheerful, "let's all be best friends" energy. While Dave keeps trying to bond through small talk and neighborly gestures, Calvin keeps his guard up. Their wives are more open-minded and practical, helping ease some of the tension.
   - By the end of the episode, they don't exactly become friends, but there's a small shift—Calvin starts to see that Dave might genuinely mean well. The episode sets up the central theme of the show: culture clash, assumptions, and two very different personalities learning how to live next door to each other.
-- **Rating:** TBD
+- **Rating:** ★★★☆☆ (3/5)
 - **Notes:** Good pilot that establishes the central dynamic and conflict. The chemistry between the leads will be key to the show's success.
+
+---
+
+### Episode 2
+- **Date Watched**: February 13, 2026
+- **Observations**:
+  - Dave is still operating on "Maximum Golden Retriever Mode," trying to earn neighborhood approval like it’s a side quest. Calvin (Cedric the Entertainer) is still guarding his emotional front yard with invisible barbed wire. The episode leans into the awkwardness of Dave trying way too hard to fit in, and Calvin being deeply allergic to forced bonding.
+  - What makes this one better than the pilot is that the edges soften a bit. Calvin feels less like "the grumpy guy" and more like someone who just doesn’t trust instant sincerity. And Dave? Still annoying… but earnestly so.
+  - It’s not revolutionary television. But it’s the kind of episode that makes you smirk and think, "Yeah, this is going to be a slow-burn rivalry-turned-friendship."
+  - Two men. One driveway. Zero chill.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** The dynamic softens slightly. Calvin's resistance feels more grounded in personality than just hostility. Dave's earnestness is both annoying and endearing.
 
 ---
 
