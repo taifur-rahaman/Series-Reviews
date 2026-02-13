@@ -32,11 +32,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **3 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **8h 32m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **31 Episodes** | *Episodes Completed* |
+| **📜 Series Logged** | **4 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **9h 18m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **33 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **1 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
 ---
 
@@ -49,6 +49,7 @@
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Home | Feb 4, 2026 | Watching |
 | [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | Home | Feb 6, 2026 | Watching |
+| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Home | Feb 13, 2026 | Watching |
 
 ---
 
@@ -85,8 +86,7 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first comedy!*
+| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | 2018 | TBD | 21 | Watching | Home |
 
 ---
 
@@ -192,6 +192,6 @@
 ---
 
 *The Series Archives*  
-*Last Updated: 11th February 2026*
+*Last Updated: 13th February 2026*
 
 </div>
