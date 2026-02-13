@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 13, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 21                          |
-| Episodes Watched   | 2                           |
+| Episodes Watched   | 3                           |
 | Average Runtime    | 22 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -36,13 +36,22 @@ By the end of the episode, they don't exactly become friends, but there's a smal
 **(Episode 2)**
 Dave is still operating on "Maximum Golden Retriever Mode," trying to earn neighborhood approval like it’s a side quest, while Calvin is guarding his emotional front yard with invisible barbed wire. The episode leans into the awkwardness of Dave trying way too hard to fit in, and Calvin being deeply allergic to forced bonding. However, the edges soften a bit—Calvin feels less like "the grumpy guy" and more like someone who just doesn't trust instant sincerity. It's becoming a slow-burn rivalry-turned-friendship.
 
+**(Episode 3)**
+Dave decides it's time to take the friendship to the next level—the "sacred spare key exchange." Calvin surprisingly reciprocates, but his version of neighborly trust is vastly different from Dave's. The episode is the ultimate "be careful what you wish for" lesson, highlighting how Dave's aggressive wholesomeness clashes with Calvin's guarded nature. Gemma and Tina get the last laugh in an epic fashion.
+
 ## Characters & Development
 
-**Dave Johnson** is the newcomer from Michigan who moves his family to a mostly Black neighborhood in Los Angeles. He's overly friendly, optimistic to a fault, and genuinely believes his super-friendly personality will win everyone over. He immediately tries to connect with his neighbors, especially Calvin, through constant small talk and neighborly gestures. While his intentions seem genuine, his approach can come across as tone-deaf or exhausting.
+**Dave Johnson** is the newcomer from Michigan who moves his family to a mostly Black neighborhood in Los Angeles. He operates on "Maximum Golden Retriever Mode," overly friendly, optimistic to a fault, and genuinely believing his super-friendly personality will win everyone over. He immediately tries to connect with his neighbors, especially Calvin, through constant small talk and neighborly gestures (like the "sacred spare key exchange"). While his intentions seem genuine, his approach can come across as tone-deaf or exhausting, often leading to secondhand embarrassment. He's slowly learning that not everyone communicates in his love language of aggressive wholesomeness.
 
-**Calvin Butler** is Dave's next-door neighbor who is protective of his neighborhood and immediately skeptical of Dave's overly cheerful energy. He keeps his guard up and isn't impressed by Dave's attempts at friendship. Calvin represents someone who has seen his community change over time and is wary of what this new arrival might mean. Despite his initial resistance, by the end of the first episode, there's a hint that he might start to see Dave's genuine intentions.
+**Calvin Butler** is Dave's next-door neighbor who guards his emotional front yard with "invisible barbed wire." He is protective of his neighborhood and skeptical of Dave's overly cheerful energy. Calvin isn't impressed by forced bonding, but his resistance feels less like hostility and more like a personality trait—he doesn't trust instant sincerity. By Episode 3, he's shown he can reciprocate neighborly gestures, but strictly on his own terms. His relationship with Dave is shaping up to be a slow-burn rivalry-turned-friendship where he teaches Dave lessons about boundaries and trust in his own unique way.
 
-**The Wives** (Dave's and Calvin's) are more open-minded and practical than their husbands. They help ease some of the tension between Dave and Calvin, serving as mediators and voices of reason. They seem more willing to give each other a chance and look past the surface-level differences.
+**Gemma Johnson & Tina Butler** (The Wives) are the grounded, practical counterparts to their husbands. They often serve as mediators, easing the tension between Dave and Calvin. Unlike the men, they seem more willing to look past surface-level differences and connect. They also aren't afraid to let their husbands fail for a laugh or a lesson, often getting the last laugh (as seen in the Episode 3 key exchange). They understand the dynamic better than the men do and navigate the culture clash with more grace and humor.
+
+**Malcolm Butler** is Calvin and Tina's older son. He's currently figuring out his path in life, often seen hanging out at home or with his brother. He provides a younger perspective on the neighborhood dynamics and often serves as a sounding board (or source of teasing) for his father and brother.
+
+**Marty Butler** is Calvin and Tina's younger son, a brilliant engineer/nerd who often clashes with his father's old-school mentality. He represents the "new school" success but in a way that sometimes baffles Calvin. His interactions with his family highlight the generational gap within the Butler household.
+
+**Grover Johnson** is Dave and Gemma's young son. He's innocent, impressionable, and often oblivious to the cultural tensions around him. He serves as a bridge between the families simply by being a kid who just wants to play and be happy, unaware of the complex social dynamics his father is stressing over.
 
 ## Production & Direction
 
@@ -77,6 +86,18 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
   - Two men. One driveway. Zero chill.
 - **Rating:** ★★★★☆ (4/5)
 - **Notes:** The dynamic softens slightly. Calvin's resistance feels more grounded in personality than just hostility. Dave's earnestness is both annoying and endearing.
+
+---
+
+### Episode 3
+- **Date Watched**: February 13, 2026
+- **Observations**:
+  - This episode is the ultimate "be careful what you wish for" sitcom lesson. Dave decides to take the friendship to the next level with the "sacred spare key exchange," expecting matching friendship bracelets.
+  - Calvin surprisingly gives Dave a key back, but there's a kicker: Calvin's version of neighborly trust and Dave's are in different zip codes. It's like when someone says "we should hang out sometime" and means "never."
+  - The whole thing is 22 minutes of Dave learning that just because you give someone a key doesn't mean they're gonna use it to water your plants. Sometimes a key is just a key.
+  - The last laugh of Gemma and Tina was epic.
+- **Rating:** ★★★⯪☆ (3.5/5)
+- **Notes:** Solid episode exploring the boundaries of neighborly trust. Docked half a point for the secondhand embarrassment from Dave's actions. Gemma and Tina stealing the show at the end was a highlight.
 
 ---
 
