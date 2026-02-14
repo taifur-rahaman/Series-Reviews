@@ -1,6 +1,6 @@
 # Temporal Distribution - Series
 
-> **Last Updated:** 13th February 2026
+> **Last Updated:** 14th February 2026
 
 This document tracks the temporal distribution of TV series watched, organized by year of release and viewing time.
 
@@ -13,8 +13,8 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Total Series Logged** | 4 |
 | **Series Completed** | 1 |
 | **Currently Watching** | 3 |
-| **Total Episodes Watched** | 35 |
-| **Total Watch Time** | 10h 2m |
+| **Total Episodes Watched** | 36 |
+| **Total Watch Time** | 10h 24m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---:|:---:|:---:|:---|
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 | 2022 | 1 | 3h 12m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
-| 2018 | 2 | 7h 6m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
+| 2018 | 2 | 7h 12m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
 
 ---
 
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---|:---:|:---:|:---:|
 | Action & Adventure | 0 | 0h 0m | N/A |
 | Drama | 0 | 0h 0m | N/A |
-| Comedy | 1 | 1h 6m | N/A |
+| Comedy | 1 | 1h 28m | N/A |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
@@ -62,7 +62,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 4 | 35 | 10h 2m |
+| February 2026 | 4 | 36 | 10h 24m |
 
 ---
 
@@ -81,7 +81,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | 0 | TBD | Just Started |
 | [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 8 | 12 | 67% |
-| [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 3 | 21 | 14% |
+| [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 4 | 21 | 19% |
 
 ---
 

@@ -33,8 +33,8 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Series Logged** | **4 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **10h 2m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **35 Episodes** | *Episodes Completed* |
+| **⏳ Hours Watched** | **10h 24m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **36 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **1 Series** | *Journeys Finished* |
 | **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
@@ -192,6 +192,6 @@
 ---
 
 *The Series Archives*  
-*Last Updated: 13th February 2026*
+*Last Updated: 14th February 2026*
 
 </div>

@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 13, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 21                          |
-| Episodes Watched   | 3                           |
+| Episodes Watched   | 4                           |
 | Average Runtime    | 22 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -39,9 +39,12 @@ Dave is still operating on "Maximum Golden Retriever Mode," trying to earn neigh
 **(Episode 3)**
 Dave decides it's time to take the friendship to the next level—the "sacred spare key exchange." Calvin surprisingly reciprocates, but his version of neighborly trust is vastly different from Dave's. The episode is the ultimate "be careful what you wish for" lesson, highlighting how Dave's aggressive wholesomeness clashes with Calvin's guarded nature. Gemma and Tina get the last laugh in an epic fashion.
 
+**(Episode 4)**
+Dave throws a housewarming party, obviously. The Johnsons invite everyone, including the Butlers. Tina, Malcolm, and Marty are in, but Calvin ghosts the invite. This is Dave's breaking point—after weeks of trying to win Calvin over, he finally snaps and decides he's done seeking approval. He throws the party for himself and vows to enjoy it regardless of Calvin's presence. It's a major character moment for Dave where he finds some self-respect and stops being a doormat. A turning point for their relationship.
+
 ## Characters & Development
 
-**Dave Johnson** is the newcomer from Michigan who moves his family to a mostly Black neighborhood in Los Angeles. He operates on "Maximum Golden Retriever Mode," overly friendly, optimistic to a fault, and genuinely believing his super-friendly personality will win everyone over. He immediately tries to connect with his neighbors, especially Calvin, through constant small talk and neighborly gestures (like the "sacred spare key exchange"). While his intentions seem genuine, his approach can come across as tone-deaf or exhausting, often leading to secondhand embarrassment. He's slowly learning that not everyone communicates in his love language of aggressive wholesomeness.
+**Dave Johnson** is the newcomer from Michigan who moves his family to a mostly Black neighborhood in Los Angeles. He operates on "Maximum Golden Retriever Mode," overly friendly, optimistic to a fault, and genuinely believing his super-friendly personality will win everyone over. He immediately tries to connect with his neighbors, especially Calvin, through constant small talk and neighborly gestures (like the "sacred spare key exchange"). While his intentions seem genuine, his approach can come across as tone-deaf or exhausting, often leading to secondhand embarrassment. He's slowly learning that not everyone communicates in his love language of aggressive wholesomeness. By Episode 4, he reaches a breaking point and decides to stop desperate seeking approval, showing a backbone for the first time.
 
 **Calvin Butler** is Dave's next-door neighbor who guards his emotional front yard with "invisible barbed wire." He is protective of his neighborhood and skeptical of Dave's overly cheerful energy. Calvin isn't impressed by forced bonding, but his resistance feels less like hostility and more like a personality trait—he doesn't trust instant sincerity. By Episode 3, he's shown he can reciprocate neighborly gestures, but strictly on his own terms. His relationship with Dave is shaping up to be a slow-burn rivalry-turned-friendship where he teaches Dave lessons about boundaries and trust in his own unique way.
 
@@ -63,6 +66,7 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
 - **Assumptions**: Both Dave and Calvin make assumptions about each other based on their backgrounds and experiences.
 - **Community and Change**: The series explores how neighborhoods evolve and how people react to change in their communities.
 - **Finding Common Ground**: Despite their differences, the show hints at the possibility of connection and understanding.
+- **Self-Respect**: (Episode 4) Dave learning that he doesn't need to beg for approval to belong.
 
 ## Episode Breakdown
 
@@ -98,6 +102,18 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
   - The last laugh of Gemma and Tina was epic.
 - **Rating:** ★★★⯪☆ (3.5/5)
 - **Notes:** Solid episode exploring the boundaries of neighborly trust. Docked half a point for the secondhand embarrassment from Dave's actions. Gemma and Tina stealing the show at the end was a highlight.
+
+---
+
+### Episode 4
+- **Date Watched**: February 14, 2026
+- **Observations**:
+  - Dave throws a housewarming party because of COURSE he is. Probably sent color-coordinated e-vites. The Johnsons invite the whole Butler family. Tina, Malcolm, and Marty say yes, but Calvin ghosts the invite.
+  - This is the moment Dave finally snaps. Not in a scary way, but in a "I'm TIRED of bending over backwards" way. It's like when you've been double-texting someone for weeks and finally you're like "you know what? I'm good."
+  - The whole episode is Dave's character development arc from "please like me" to "actually, maybe I don't need your approval." It's giving self-respect.
+  - A turning point for the relationship. It's the "we need to talk" conversation that was desperately needed.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** Great development for Dave. Finally growing a backbone makes him much more likable. The dynamic shift was necessary.
 
 ---
 
