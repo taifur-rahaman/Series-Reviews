@@ -10,9 +10,9 @@
 | Genre              | Comedy, Sitcom              |
 | Status             | Watching                    |
 | Watch Start Date   | Feb 13, 2026                |
-| Watch End Date     | Ongoing                     |
+| Watch End Date     | Feb 16, 2026                |
 | Total Episodes     | 21                          |
-| Episodes Watched   | 4                           |
+| Episodes Watched   | 5                           |
 | Average Runtime    | 22 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -81,7 +81,7 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
 
 ---
 
-### Episode 2
+### Episode 2: Welcome to the Repipe
 - **Date Watched**: February 13, 2026
 - **Observations**:
   - Dave is still operating on "Maximum Golden Retriever Mode," trying to earn neighborhood approval like it’s a side quest. Calvin (Cedric the Entertainer) is still guarding his emotional front yard with invisible barbed wire. The episode leans into the awkwardness of Dave trying way too hard to fit in, and Calvin being deeply allergic to forced bonding.
@@ -93,7 +93,7 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
 
 ---
 
-### Episode 3
+### Episode 3: Welcome to the Spare Key
 - **Date Watched**: February 13, 2026
 - **Observations**:
   - This episode is the ultimate "be careful what you wish for" sitcom lesson. Dave decides to take the friendship to the next level with the "sacred spare key exchange," expecting matching friendship bracelets.
@@ -105,7 +105,7 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
 
 ---
 
-### Episode 4
+### Episode 4: Welcome to the Housewarming
 - **Date Watched**: February 14, 2026
 - **Observations**:
   - Dave throws a housewarming party because of COURSE he is. Probably sent color-coordinated e-vites. The Johnsons invite the whole Butler family. Tina, Malcolm, and Marty say yes, but Calvin ghosts the invite.
@@ -114,6 +114,19 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
   - A turning point for the relationship. It's the "we need to talk" conversation that was desperately needed.
 - **Rating:** ★★★★☆ (4/5)
 - **Notes:** Great development for Dave. Finally growing a backbone makes him much more likable. The dynamic shift was necessary.
+
+---
+
+### Episode 5: Welcome to Game Night
+- **Date Watched**: February 16, 2026
+- **Observations**:
+  - Oh boy, buckle up because this episode is basically "Monopoly ruins friendships: The Sitcom Edition." The Johnsons and Butlers decide to have their first game night together, and if you've ever played board games with people you're still getting to know, you KNOW this is a recipe for disaster. It's like voluntarily signing up for group therapy but with dice and competitive rage.
+  - Gemma apparently has some skeletons in her closet that come tumbling out during the game—we're talking "past wrong" territory. Game night has a way of making people confess their sins like they're in a confessional booth. Monopoly Money does things to people.
+  - MEANWHILE, Malcolm decides THIS is the perfect moment to work on his daddy issues with Calvin. Because nothing says "let's have a heartfelt father-son moment" like rolling dice and arguing about who owns Boardwalk. My guy Malcolm really picked the most chaotic time to be vulnerable. Respect the confidence, but also... READ THE ROOM, DUDE.
+  - The whole episode is basically everyone being like "haha fun game night!" and then 20 minutes later they're all confronting their deepest personal issues over a game of Pictionary or whatever. Board games are ruthless. They reveal who you REALLY are as a person. Competitive? Petty? A sore loser? It all comes out.
+  - The Real Lesson: Game nights are supposed to be fun bonding activities, but in sitcom land they're basically truth serum in cardboard box form.
+- **Rating:** ★★★⯪☆ (3.5/5)
+- **Notes:** Game night reveals everyone's true colors. Would've been higher but somebody definitely rage-quit.
 
 ---
 
