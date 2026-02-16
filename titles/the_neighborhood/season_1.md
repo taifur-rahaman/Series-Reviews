@@ -12,7 +12,7 @@
 | Watch Start Date   | Feb 13, 2026                |
 | Watch End Date     | Feb 16, 2026                |
 | Total Episodes     | 21                          |
-| Episodes Watched   | 5                           |
+| Episodes Watched   | 8                           |
 | Average Runtime    | 22 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -41,6 +41,18 @@ Dave decides it's time to take the friendship to the next level—the "sacred sp
 
 **(Episode 4)**
 Dave throws a housewarming party, obviously. The Johnsons invite everyone, including the Butlers. Tina, Malcolm, and Marty are in, but Calvin ghosts the invite. This is Dave's breaking point—after weeks of trying to win Calvin over, he finally snaps and decides he's done seeking approval. He throws the party for himself and vows to enjoy it regardless of Calvin's presence. It's a major character moment for Dave where he finds some self-respect and stops being a doormat. A turning point for their relationship.
+
+**(Episode 5)**
+The Johnsons and Butlers have their first game night together—because nothing says "let's bond" like competitive board games with people you're still getting to know. It's basically Monopoly ruins friendships: The Episode. Gemma's past mistakes come tumbling out during the game, while Malcolm chooses this chaotic moment to work through his daddy issues with Calvin. Board games reveal who you really are as a person, and this episode proves it. Game night was supposed to be fun, but it turns into truth serum in cardboard box form.
+
+**(Episode 6)**
+Dave decides to plan an anniversary celebration for Calvin and Tina because boundaries are just a suggestion, apparently. This man wakes up and chooses chaos every day. Of course, everything goes sideways because Dave Plans™ never go smoothly. Meanwhile, Tina babysits Grover in the subplot. The episode teaches Dave (again) that you can't force meaningful moments—sometimes the best gift is just not interfering. Peak Dave-ness: thinking he knows what someone else's anniversary should look like better than they do.
+
+**(Episode 7)**
+Dave visits Calvin's longtime community barbershop and—plot twist—everyone loves him immediately. The owner and regulars adopt Dave on sight, and Calvin is standing there having an existential crisis. This is his sanctuary, his safe space, and Dave just waltzes in and becomes everybody's new best friend. For once, Dave isn't even trying that hard; he's just being himself. Which somehow makes it worse for Calvin. The tables have turned: Calvin finally experiences what Dave has felt for the past six episodes—being the outsider. Uno reverse card, emotional edition.
+
+**(Episode 8)**
+The Johnsons host their first Thanksgiving in their new home, and Dave's politically incorrect mother comes to visit and meets the Butler family for the first time. It's a "meet the parents" episode meets holiday special where everyone is trapped together. Dave is sweating, praying his mom doesn't say anything wild. Thanksgiving is designed to force families together and see what happens—add in cross-cultural dynamics and a mother with No Filter™, and you've got a pressure cooker situation. Holiday chaos with boundary-challenged relatives at its finest.
 
 ## Characters & Development
 
@@ -127,6 +139,45 @@ The show has a classic sitcom feel with a studio audience or laugh track. The pa
   - The Real Lesson: Game nights are supposed to be fun bonding activities, but in sitcom land they're basically truth serum in cardboard box form.
 - **Rating:** ★★★⯪☆ (3.5/5)
 - **Notes:** Game night reveals everyone's true colors. Would've been higher but somebody definitely rage-quit.
+
+---
+
+### Episode 6: Welcome to the Anniversary
+- **Date Watched**: February 16, 2026
+- **Observations**:
+  - Dave decides he's going to PLAN AN ANNIVERSARY CELEBRATION for Calvin and Tina because apparently he hasn't learned his lesson about boundaries yet. This man wakes up and chooses chaos every single day. It's giving "I saw you liked that Instagram post so I planned your wedding" energy.
+  - Of course, everything goes absolutely sideways because when has a Dave Plan™ ever gone smoothly? The universe looked at Dave's color-coded anniversary spreadsheet and said "lol no." Murphy's Law but make it sitcom.
+  - Meanwhile, Tina is babysitting Grover, and honestly this subplot is probably way more chill than whatever disaster Dave is orchestrating in the main plot. Tina + Grover = the only people in this episode making reasonable life choices.
+  - The whole episode is basically Dave learning (again) that you can't force meaningful moments. Sometimes the best gift is just... not interfering. Revolutionary concept for our boy Dave.
+  - Peak Dave-ness: thinking he knows what someone else's anniversary should look like better than they do. The audacity. The confidence. The inevitable failure.
+- **Rating:** ★★★☆☆ (3/5)
+- **Notes:** Dave's main character syndrome strikes again. When will he learn that not everything needs his Golden Retriever energy?
+
+---
+
+### Episode 7: Welcome to the Barbershop
+- **Date Watched**: February 16, 2026
+- **Observations**:
+  - OH THIS IS SPICY. Dave visits Calvin's sacred community barbershop, and plot twist: EVERYONE LOVES HIM IMMEDIATELY. The barbershop owner and the regulars are all like "Dave? Dave is GREAT. We love Dave!" And Calvin is standing there having an existential crisis like "wait... what?"
+  - This is Calvin's SAFE SPACE. His SANCTUARY. The one place where he's the guy everyone knows and respects. And Dave just waltzes in and gets adopted by the barbershop crew instantly. Calvin is PRESSED. The salt levels are through the roof.
+  - Imagine being Calvin: you've been going to this barbershop for YEARS, it's your community spot, and then your annoying neighbor shows up ONCE and suddenly he's everybody's new best friend. The betrayal. The AUDACITY of this barbershop.
+  - For once, Dave isn't even trying that hard. He's just being himself and people genuinely vibe with him. Which somehow makes it WORSE for Calvin. Can't even blame Dave for forcing it this time.
+  - This episode is basically Calvin experiencing what Dave has felt for the past 6 episodes—being the outsider. Uno reverse card, emotional edition.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** Calvin getting a taste of his own medicine? Delicious. Dave accidentally winning without trying? Chef's kiss. Character development through barbershop beef.
+
+---
+
+### Episode 8: Welcome to Thanksgiving
+- **Date Watched**: February 16, 2026
+- **Observations**:
+  - It's the Johnsons' first Thanksgiving in their new home, and Dave and Gemma are hosting. Already a recipe for controlled chaos, but WAIT—there's more! Dave's mom is coming to visit. And she's... politically incorrect. Oh boy. OH BOY.
+  - This is the "meet the parents" episode but make it a holiday special where everyone is trapped in a house together and can't leave. The stakes are HIGH. The turkey is COOKING. The tension is SIMMERING.
+  - Dave's mom meeting the Butler family for the first time is basically every anxious person's nightmare. You KNOW Dave is sweating, praying his mom doesn't say anything wild. Spoiler alert: she probably does. That's literally the entire plot.
+  - Thanksgiving: the holiday specifically designed to force families together and see what happens. Add in cross-cultural dynamics, a new neighborhood, and a mother-in-law with No Filter™? This is a pressure cooker episode.
+  - The real question: does Calvin's poker face survive Thanksgiving dinner? Does Dave combust from stress? Does someone flip the table? The possibilities are endless.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** Holiday episodes + boundary-challenged relatives = sitcom gold. Dave's mom said "I'm about to make this everyone's problem" and honestly, respect.
 
 ---
 
