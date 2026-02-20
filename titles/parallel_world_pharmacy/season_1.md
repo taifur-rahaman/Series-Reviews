@@ -8,13 +8,13 @@
 | Release Date       | July 10, 2022               |
 | Studio             | Diomedéa                    |
 | Genre              | Fantasy, Isekai, Medical    |
-| Status             | Watching                    |
+| Status             | Completed                   |
 | Watch Start Date   | Feb 06, 2026                |
-| Watch End Date     | Ongoing                     |
+| Watch End Date     | Feb 20, 2026                |
 | Total Episodes     | 12                          |
-| Episodes Watched   | 8                           |
+| Episodes Watched   | 12                          |
 | Average Runtime    | 24 mins                     |
-| Rating             | TBD                         |
+| Rating             | 4.5/5                       |
 | Platform           | Home                        |
 | Language           | Japanese                    |
 | Country            | Japan                       |
@@ -161,15 +161,60 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
 
 ---
 
+### Episode 9
+- **Date Watched**: February 20, 2026
+- **Observations**:
+  - The series takes a dramatically dark and serious turn with the introduction of the Black Death (bubonic plague). It's no longer just about common ailments or localized issues; Farma is now facing an epidemic that threatens the entire Empire. The stakes have never been higher.
+  - Farma's modern knowledge shines through brilliantly here. His understanding of germ theory, disease vectors (like fleas and rats), and the necessity of quarantine are concepts entirely foreign to this medieval setting. His quick thinking to prevent the disease from reaching the capital by implementing strict border controls and sanitation measures is highly impressive.
+  - The support from Empress Élisabeth is crucial. She doesn't just dismiss Farma's warnings; she trusts his expertise completely. Without her authority backing his quarantine protocols, the entire capital would have been doomed.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** A tense and gripping episode that shifts the focus from establishing the pharmacy to preventing a full-scale plague. The introduction of the Black Death as a major threat is well-executed.
+
+---
+
+### Episode 10
+- **Date Watched**: February 20, 2026
+- **Observations**:
+  - This episode really highlights the extreme difficulty of implementing modern medical practices in a society that doesn't understand them. Farma isn't just fighting a disease; he's fighting ignorance and superstition. Seeing the villagers of Estacht reject his help and even accuse him of being an evil spirit is frustrating but entirely realistic for the era.
+  - Establishing quarantine zones and convincing people to stay isolated is a massive hurdle. Farma using his powerful ice magic not to attack, but to command attention and enforce the quarantine, is a great use of his abilities. It shows he's willing to be seen as intimidating if it means saving lives.
+  - The sheer scale of the operation is daunting. Sinking infected merchant ships to prevent the spread is a drastic, heartbreaking measure, but perfectly illustrates the harsh realities of combating an epidemic.
+- **Rating:** ★★★★½ (4.5/5)
+- **Notes:** Fantastic exploration of the sociological challenges of medicine. The resistance from the villagers and the drastic measures required to enforce quarantine make for a highly compelling narrative.
+
+---
+
+### Episode 11
+- **Date Watched**: February 20, 2026
+- **Observations**:
+  - The reveal that the plague wasn't a natural outbreak but a coordinated bioterrorist attack by Camus de Sade is chilling. Weaponizing infected flying squirrels is both bizarrely creative and deeply disturbing. It adds a sinister, intentional layer to the catastrophe.
+  - The collaboration between Farma and the local priests in Esturk Village is a nice touch. It shows progress from the earlier conflicts with the Church; now, they're working together for the greater good.
+  - The focus on Professor Casper is a wonderful addition. It brings attention to the meticulous, often overlooked work of researchers studying molds and microorganisms. Her expertise is key to developing the cure, proving that Farma can't solve everything completely alone and that scientific collaboration is essential.
+- **Rating:** ★★★★☆ (4/5)
+- **Notes:** The plot thickens as the plague is revealed to be a deliberate attack. The introduction of bioterrorism raises the stakes significantly, and the collaborative medical research provides a satisfying balance to the magic.
+
+---
+
+### Episode 12
+- **Date Watched**: February 20, 2026
+- **Observations**:
+  - What an intense finale! The confrontation with Camus de Sade is terrifying. The fact that Camus is Bruno's former friend who was expelled for abominable experiments makes the conflict deeply personal for the de Médicis family.
+  - Camus attacking the pharmacy and poisoning Lotte and Cédric raises the emotional stakes to the absolute maximum. Farma's desperate effort to purge the deadly cocktail of poison from his friends is a heart-pounding sequence.
+  - The final battle is surprisingly action-packed for a medical anime. Farma realizing that his usual healing methods won't work on the demonic power possessing Camus forces him to use his Divine Art destructively. It's a powerful climax demonstrating that sometimes, the only way to save lives is to eliminate the ultimate threat.
+  - The aftermath perfectly ties up the season. The epidemic is quelled, Farma is recognized as a Royal Pharmacist, and the festival goes on. The overarching theme that Farma might truly be an apostle of the medicine god leaves a great hook for potential future seasons.
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** A spectacular and emotional conclusion. The blend of high-stakes action, medical drama, and character closure is excellent. The season wraps up its primary arc cleanly while leaving room for the story to continue.
+
+---
+
 ### Rating Breakdown
 
 | Category | Score | Notes |
 |---|---|---|
-| **Visuals** | **TBD** | |
-| **Plot** | **TBD** | |
-| **Characters** | **TBD** | |
-| **Enjoyment** | **TBD** | |
-| **Overall** | **TBD** | |
+| **Visuals** | **4/5** | Clean animation, great depiction of magic and molecular structures. |
+| **Plot** | **4.5/5** | High stakes, excellent blend of modern medical science and fantasy. |
+| **Characters** | **4.5/5** | Farma, Blanche, and Lotte are fantastic. Antagonists are effective. |
+| **Enjoyment** | **4.5/5** | Very engaging, educational, and genuinely thrilling at times. |
+| **Overall** | **4.5/5** | A standout isekai that balances heart with scientific accuracy. |
 
 ---
 
@@ -182,6 +227,16 @@ The animation is clean and pleasant. The depiction of the magic and the "diagnos
 
 - Realizing he has no shadow.
 - Creating water and destroying it.
+
+---
+
+## Verdict
+
+Parallel World Pharmacy is a surprisingly refreshing take on the isekai genre. Sure, the premise of a modern professional getting reincarnated into a fantasy world is nothing new, but making the protagonist a hyper-competent pharmacist changes the game completely. It's not just about overpowering enemies with raw magic; it's about breaking down medicinal chemistry and treating people scientifically in a world governed by superstition. 
+
+The early episodes give off a very cozy, almost educational vibe—think "Dr. Stone" but purely for medicine—as Farma sets up his shop, introduces safe cosmetics, and battles outdated merchant guilds. But then the show flips the script in the final act, dropping the Black Death and a literal bioterrorist into the mix, raising the stakes to Kingdom-threatening levels. The balance between heartwarming character moments (especially involving Blanche, Lotte, and the Queen) and the intense, high-stakes medical crises is handled beautifully. It’s genuinely impressive how the show manages to make germ theory and quarantine protocols feel as thrilling as a traditional magic battle. If you're tired of the typical power fantasy isekai and want something with brains, heart, and a surprising amount of scientific accuracy, this is an easy recommendation. 
+
+It's a fantastic watch, balancing educational moments with genuine emotional weight and action. 
 
 ---
 

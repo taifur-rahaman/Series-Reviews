@@ -18,7 +18,14 @@ Series-Reviews/
 
 ## 🎯 Genre Categories
 
-(Same as before)
+- **Action & Adventure**
+- **Drama**
+- **Comedy**
+- **Thriller & Suspense**
+- **Sci-Fi & Fantasy**
+- **Romance**
+- **Horror**
+- **Mystery & Crime**
 
 ## 🎯 Anime Categories
 

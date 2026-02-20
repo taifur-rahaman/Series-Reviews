@@ -18,7 +18,6 @@
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
-| └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
 | [🎯 Anime](#-anime) | Japanese animated series by genre |
 | └─ [� Isekai](#-isekai) | Reincarnated or transported to another world |
 | └─ [�🍕 Slice of Life](#-slice-of-life) | Daily life stories |
@@ -33,10 +32,10 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Series Logged** | **4 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **10h 24m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **36 Episodes** | *Episodes Completed* |
-| **✅ Series Completed** | **1 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
+| **⏳ Hours Watched** | **12h 0m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **40 Episodes** | *Episodes Completed* |
+| **✅ Series Completed** | **2 Series** | *Journeys Finished* |
+| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
 ---
 
@@ -45,11 +44,10 @@
 
 ## 📺 Currently Watching
 
-| **Series** | **Platform** | **Started** | **Status** |
-|:---|:---:|:---:|:---:|
-| [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Home | Feb 4, 2026 | Watching |
-| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | Home | Feb 6, 2026 | Watching |
-| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Home | Feb 13, 2026 | Watching |
+| **Series** | **Genre** | **Platform** | **Started** | **Watched** | **Status** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
+| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
 
 ---
 
@@ -162,7 +160,7 @@
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Isekai Izakaya (Season 1)](titles/isekai_izakaya/season_1.md) | 2018 | ★★★★⯪ | 24 | Completed | Home |
-| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | TBD | 12 | Watching | Home |
+| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | ★★★★⯪ | 12 | Completed | Home |
 
 ### 🍕 Slice of Life
 
@@ -180,7 +178,7 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | TBD | 12 | Watching | Home |
+| [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | ★★★★⯪ | 12 | Completed | Home |
 
 ### 🎭 Drama & Romance
 
@@ -192,6 +190,6 @@
 ---
 
 *The Series Archives*  
-*Last Updated: 14th February 2026*
+*Last Updated: 19th February 2026*
 
 </div>
