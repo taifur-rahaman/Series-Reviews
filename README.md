@@ -31,11 +31,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **4 Series** | *Stories Documented* |
+| **📜 Series Logged** | **5 Series** | *Stories Documented* |
 | **⏳ Hours Watched** | **12h 0m** | *Total Watch Time* |
 | **📺 Episodes Watched** | **40 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **2 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
 ---
 
@@ -48,6 +48,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
+| [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
 
 ---
 
@@ -60,8 +61,7 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first action series!*
+| [Ben 10 (Season 1)](titles/ben_10/season_1.md) | 2005 | TBD | 13 | Watching | Home |
 
 ---
 
@@ -190,6 +190,6 @@
 ---
 
 *The Series Archives*  
-*Last Updated: 19th February 2026*
+*Last Updated: 10th March 2026*
 
 </div>

@@ -1,6 +1,6 @@
 # Temporal Distribution - Series
 
-> **Last Updated:** 19th February 2026
+> **Last Updated:** 10th March 2026
 
 This document tracks the temporal distribution of TV series watched, organized by year of release and viewing time.
 
@@ -10,9 +10,9 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Logged** | 4 |
+| **Total Series Logged** | 5 |
 | **Series Completed** | 2 |
-| **Currently Watching** | 2 |
+| **Currently Watching** | 3 |
 | **Total Episodes Watched** | 40 |
 | **Total Watch Time** | 12h 0m |
 | **Average Episode Length** | N/A |
@@ -28,6 +28,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 | 2022 | 1 | 4h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
 | 2018 | 2 | 7h 12m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
+| 2005 | 1 | 0h 0m | [Ben 10 (S1)](../titles/ben_10/season_1.md) |
 
 ---
 
@@ -35,7 +36,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Genre** | **Series Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Action & Adventure | 0 | 0h 0m | N/A |
+| Action & Adventure | 1 | 0h 0m | N/A |
 | Drama | 0 | 0h 0m | N/A |
 | Comedy | 1 | 1h 28m | N/A |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
@@ -81,6 +82,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | TBD | TBD | Just Started |
 | [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 8 | 21 | 38% |
+| [Ben 10 (Season 1)](../titles/ben_10/season_1.md) | 0 | 13 | Just Started |
 
 ---
 
