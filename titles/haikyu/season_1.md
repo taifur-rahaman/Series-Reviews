@@ -16,7 +16,7 @@
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
-| Language           | Japanese                    |
+| Language           | English (Dub)               |
 | Country            | Japan                       |
 
 
