@@ -12,7 +12,7 @@
 | Watch Start Date   | Mar 14, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 25                          |
-| Episodes Watched   | 5                           |
+| Episodes Watched   | 4 (ep 5 in progress)        |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
