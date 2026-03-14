@@ -19,11 +19,12 @@
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
 | [🎯 Anime](#-anime) | Japanese animated series by genre |
-| └─ [� Isekai](#-isekai) | Reincarnated or transported to another world |
-| └─ [�🍕 Slice of Life](#-slice-of-life) | Daily life stories |
+| └─ [🌀 Isekai](#-isekai) | Reincarnated or transported to another world |
+| └─ [🍕 Slice of Life](#-slice-of-life) | Daily life stories |
 | └─ [🍱 Gourmet](#-gourmet) | Delicious food and cooking |
 | └─ [⚔️ Action & Fantasy](#-action--fantasy) | Battles and magical worlds |
 | └─ [🎭 Drama & Romance](#-drama--romance) | Emotional stories and relationships |
+| └─ [🏐 Sports](#-sports) | Competitive sports and team spirit |
 
 ---
 
@@ -31,11 +32,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **5 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **12h 0m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **40 Episodes** | *Episodes Completed* |
+| **📜 Series Logged** | **6 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **14h 0m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **45 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **2 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **4 Active** | *Stories Unfolding* |
 
 ---
 
@@ -49,6 +50,7 @@
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
+| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | Anime – Sports | Home | Mar 14, 2026 | 5 / 25 | Watching |
 
 ---
 
@@ -186,10 +188,16 @@
 |:---|:---:|:---:|:---:|:---:|:---:|
 *No series logged yet.*
 
+### 🏐 Sports
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | 2014 | TBD | 25 | Watching | Home |
+
 
 ---
 
 *The Series Archives*  
-*Last Updated: 10th March 2026*
+*Last Updated: 14th March 2026*
 
 </div>
