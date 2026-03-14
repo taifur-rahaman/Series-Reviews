@@ -12,7 +12,7 @@
 | Watch Start Date   | Mar 14, 2026                |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 25                          |
-| Episodes Watched   | 4 (ep 5 in progress)        |
+| Episodes Watched   | 7                           |
 | Average Runtime    | 24 mins                     |
 | Rating             | TBD                         |
 | Platform           | Home                        |
@@ -30,17 +30,20 @@ The opening episodes waste no time establishing the emotional core. Hinata's cru
 
 Karasuno is introduced as a fallen giant — a school with a proud volleyball history now struggling to be taken seriously. The friction upon Hinata and Kageyama's arrival gives the club a jolt of energy it clearly needed. The older players aren't pushovers either; the test match against the third-years in Episode 4 is already a season highlight, giving the "quick strike" combo its first real payoff in a high-pressure moment.
 
-*Ongoing — updated through Episode 4.*
+Episodes 5–7 escalate everything sharply. Hinata's anxiety in Episode 5 is handled with surprising emotional depth — his fear of failing Kageyama in a real match is more vulnerable than anything the show had shown from him before, and it pays off beautifully when the quick works under pressure. Episode 6 broadens the cast of the volleyball world, establishing Karasuno's identity as a scrappy underdog team that wins through unconventional plays and sheer intensity. Episode 7 introduces Oikawa Tooru — and immediately he's the most compelling figure in the show. A genius setter who is also deeply threatened by Kageyama's potential is a far richer antagonist than a simple villain.
+
+*Ongoing — updated through Episode 7.*
 
 ## Characters & Development
 
-- **Hinata Shoyo** — Pure kinetic energy in human form. His athleticism is immediately striking, but the show is careful to show his limits too — poor technique, no volleyball IQ, can't even serve properly. What makes him compelling is that his passion is never played for laughs; it's treated as something genuinely infectious.
-- **Kageyama Tobio** — Introduced as a cold, dictatorial setter who drove his own teammates away. The "King of the Court" label is earned — he's technically superior to everyone around him but has zero ability to collaborate. His slow thaw toward Hinata is the relationship doing the most work in these episodes.
-- **Daichi Sawamura** — The captain and the room's anchor. He's the one who decides to give both problem players a chance, and his reasoning is clear-eyed and compelling. Steady presence from the start.
+- **Hinata Shoyo** — Pure kinetic energy in human form. His athleticism is immediately striking, but the show is careful to show his limits too — poor technique, no volleyball IQ, can't even serve properly. What makes him compelling is that his passion is never played for laughs; it's treated as something genuinely infectious. Episode 5 deepens him considerably — his pre-match anxiety reveals that under the bravado is a kid who is terrified of letting a partner down for the first time in his life.
+- **Kageyama Tobio** — Introduced as a cold, dictatorial setter who drove his own teammates away. His slow thaw toward Hinata is the relationship doing the most work early on. By ep 7, the cracks in his armor are widening — Oikawa's appearance visibly shakes him, which adds a new dimension to his apparent invulnerability.
+- **Daichi Sawamura** — The captain and the room's anchor. Steady, reliable, and quietly inspiring.
 - **Sugawara Koushi** — The original starting setter, now displaced by Kageyama. His quiet grace about the situation is more interesting than if he'd been made antagonistic.
-- **Tanaka Ryunosuke** — Comic relief done right; he's loud and over-the-top but pulls his weight on the court when it matters.
+- **Tanaka Ryunosuke** — Comic relief done right; loud and over-the-top, but pulls his weight on the court when it matters.
+- **Oikawa Tooru** — Arrives in Episode 7 and immediately commands the screen. The "Great King" is talented, charismatic, and — crucially — afraid of Kageyama's ceiling. That psychological layer makes him far more interesting than a straightforward rival.
 
-*Ongoing — updated through Episode 4.*
+*Ongoing — updated through Episode 7.*
 
 ## Production & Direction
 
@@ -106,31 +109,37 @@ Haikyu!! is produced by Production I.G, one of Japan's most acclaimed animation 
 
 ### Episode 5: A Coward's Anxiety
 - **Air Date**: May 4, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD *(Still watching)*
-- **Notes:** 
+  - Hinata's pre-match nerves are portrayed with real emotional weight — fear of failing Kageyama specifically, not just losing
+  - The quick attack working under match pressure is a genuinely satisfying payoff
+  - Best character writing for Hinata so far
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** Emotionally the strongest Hinata episode yet. The vulnerability makes the triumph hit harder.
 
 ---
 
 ### Episode 6: An Interesting Team
 - **Air Date**: May 11, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - Karasuno's identity as a team that wins through unconventional, high-speed plays is firmly established
+  - The ensemble starts feeling like a real unit rather than a collection of character types
+  - Match energy is brilliantly paced — tension without fatigue
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** The show hitting its stride. Every player feels purposeful on the court.
 
 ---
 
 ### Episode 7: Versus the Great King
 - **Air Date**: May 18, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - Oikawa's introduction is perfectly staged — charismatic, commanding, and clearly a psychological threat to Kageyama
+  - The power dynamic between Oikawa and Kageyama adds real dramatic stakes beyond just winning/losing
+  - Oikawa being afraid of Kageyama's potential is a masterstroke — it makes the rival more human
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** Oikawa walks in and immediately becomes the most layered character in the show. Exceptional episode.
 
 ---
 

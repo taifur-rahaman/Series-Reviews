@@ -13,8 +13,8 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Total Series Logged** | 6 |
 | **Series Completed** | 2 |
 | **Currently Watching** | 4 |
-| **Total Episodes Watched** | 45 |
-| **Total Watch Time** | 14h 0m |
+| **Total Episodes Watched** | 47 |
+| **Total Watch Time** | 14h 48m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 | 2022 | 1 | 4h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
 | 2018 | 2 | 7h 12m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
-| 2014 | 1 | 2h 0m | [Haikyu!! (S1)](../titles/haikyu/season_1.md) |
+| 2014 | 1 | 2h 48m | [Haikyu!! (S1)](../titles/haikyu/season_1.md) |
 | 2005 | 1 | 0h 0m | [Ben 10 (S1)](../titles/ben_10/season_1.md) |
 
 ---
@@ -55,7 +55,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | Gourmet | 0 | 0h 0m | N/A |
 | Action & Fantasy | 1 | 4h 48m | 4.5/5 |
 | Drama & Romance | 0 | 0h 0m | N/A |
-| Sports | 1 | 2h 0m | N/A |
+| Sports | 1 | 2h 48m | N/A |
 
 ---
 
@@ -66,7 +66,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 4 | 40 | 12h 0m |
-| March 2026 | 1 | 5 | 2h 0m |
+| March 2026 | 1 | 7 | 2h 48m |
 
 ---
 
@@ -86,7 +86,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | TBD | TBD | Just Started |
 | [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 8 | 21 | 38% |
 | [Ben 10 (Season 1)](../titles/ben_10/season_1.md) | 0 | 13 | Just Started |
-| [Haikyu!! (Season 1)](../titles/haikyu/season_1.md) | 5 | 25 | 20% |
+| [Haikyu!! (Season 1)](../titles/haikyu/season_1.md) | 7 | 25 | 28% |
 
 ---
 

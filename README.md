@@ -33,8 +33,8 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Series Logged** | **6 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **14h 0m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **45 Episodes** | *Episodes Completed* |
+| **⏳ Hours Watched** | **14h 48m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **47 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **2 Series** | *Journeys Finished* |
 | **📺 Currently Watching** | **4 Active** | *Stories Unfolding* |
 
@@ -50,7 +50,7 @@
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
-| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | Anime – Sports | Home | Mar 14, 2026 | 5 / 25 | Watching |
+| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | Anime – Sports | Home | Mar 14, 2026 | 7 / 25 | Watching |
 
 ---
 
