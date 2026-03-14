@@ -26,11 +26,21 @@ Hinata Shoyo, a short but passionate middle schooler, falls in love with volleyb
 
 ## Story & Narrative
 
-*(To be filled as episodes are watched)*
+The opening episodes waste no time establishing the emotional core. Hinata's crushing middle-school loss to Kageyama is told with genuine weight — we see a kid with enormous heart but no teammates, going up against a prodigy with no empathy, and getting obliterated. It's a clean, effective origin story.
+
+Karasuno is introduced as a fallen giant — a school with a proud volleyball history now struggling to be taken seriously. The friction upon Hinata and Kageyama's arrival gives the club a jolt of energy it clearly needed. The older players aren't pushovers either; the test match against the third-years in Episode 4 is already a season highlight, giving the "quick strike" combo its first real payoff in a high-pressure moment.
+
+*Ongoing — updated through Episode 4.*
 
 ## Characters & Development
 
-*(To be filled as episodes are watched)*
+- **Hinata Shoyo** — Pure kinetic energy in human form. His athleticism is immediately striking, but the show is careful to show his limits too — poor technique, no volleyball IQ, can't even serve properly. What makes him compelling is that his passion is never played for laughs; it's treated as something genuinely infectious.
+- **Kageyama Tobio** — Introduced as a cold, dictatorial setter who drove his own teammates away. The "King of the Court" label is earned — he's technically superior to everyone around him but has zero ability to collaborate. His slow thaw toward Hinata is the relationship doing the most work in these episodes.
+- **Daichi Sawamura** — The captain and the room's anchor. He's the one who decides to give both problem players a chance, and his reasoning is clear-eyed and compelling. Steady presence from the start.
+- **Sugawara Koushi** — The original starting setter, now displaced by Kageyama. His quiet grace about the situation is more interesting than if he'd been made antagonistic.
+- **Tanaka Ryunosuke** — Comic relief done right; he's loud and over-the-top but pulls his weight on the court when it matters.
+
+*Ongoing — updated through Episode 4.*
 
 ## Production & Direction
 
@@ -47,50 +57,59 @@ Haikyu!! is produced by Production I.G, one of Japan's most acclaimed animation 
 
 ### Episode 1: The End & the Beginning
 - **Air Date**: April 6, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - Establishes Hinata's passion and his crushing defeat against Kageyama in middle school
+  - The "Little Giant" flashback is a strong motivational hook
+  - Kageyama is cold and unlikable from the jump — intentionally so
+- **Rating:** ★★★½ (3.5/5)
+- **Notes:** Solid, efficient pilot. Does everything it needs to without overstaying its welcome.
 
 ---
 
 ### Episode 2: Karasuno High School Volleyball Club
 - **Air Date**: April 13, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - Hinata arrives at Karasuno and immediately finds Kageyama on the same team — good dramatic irony
+  - Introduction of the core club members: Daichi, Sugawara, Tanaka
+  - The tension between Hinata and Kageyama is high but the episode mostly sets the table
+- **Rating:** ★★★ (3/5)
+- **Notes:** Necessary setup episode. Slower than the first but the character introductions are done well.
 
 ---
 
 ### Episode 3: The Formidable Ally
 - **Air Date**: April 20, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - Hinata and Kageyama are challenged to a test match against the third-years if they want to stay on the team
+  - The concept of the "freak quick" starts taking shape — Hinata spikes without seeing the toss
+  - First signs of Kageyama adapting his play style for someone else's benefit
+- **Rating:** ★★★⅕ (3.2/5)
+- **Notes:** The quick-strike concept is the episode's best idea. Seeing Kageyama recalibrate — even slightly — is already rewarding.
 
 ---
 
 ### Episode 4: The View From the Summit
 - **Air Date**: April 27, 2014
-- **Date Watched**: 
+- **Date Watched**: Mar 14, 2026
 - **Observations**:
-  - 
-- **Rating:** TBD
-- **Notes:** 
+  - The test match against the third-years delivers on everything the previous two episodes built up
+  - The freak quick lands in a real match context — genuinely thrilling moment
+  - Kageyama sets to Hinata with actual trust for the first time; the shift is earned
+  - Daichi's leadership is on full display — he holds the team together and keeps the stakes clear
+- **Rating:** ★★★★★ (5/5)
+- **Notes:** Best episode so far by a wide margin. The payoff on the quick attack lands emotionally because the groundwork was properly laid. Peak sports anime moment.
 
 ---
 
 ### Episode 5: A Coward's Anxiety
 - **Air Date**: May 4, 2014
-- **Date Watched**: Mar 14, 2026
+- **Date Watched**: 
 - **Observations**:
   - 
-- **Rating:** TBD
+- **Rating:** TBD *(Still watching)*
 - **Notes:** 
 
 ---
