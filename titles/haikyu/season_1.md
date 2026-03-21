@@ -1,6 +1,6 @@
 # Haikyu!! - Season 1
 
-![Series Cover](../../utils/covers/haikyu.png)
+![Series Cover](../../utils/covers/haikyuS1.webp)
 
 
 | |                             |
@@ -15,7 +15,7 @@
 | Episodes Watched   | 25                          |
 | Average Runtime    | 24 mins                     |
 | Rating             | ★★★★★ (5/5)                 |
-| Platform           | Home                        |
+| Platform           | Crunchyroll                 |
 | Language           | English (Dub)               |
 | Country            | Japan                       |
 

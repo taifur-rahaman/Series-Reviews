@@ -198,10 +198,10 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | 2014 | ★★★★★ | 25 | Completed | Home |
-| [Haikyu!! (Season 2)](titles/haikyu/season_2.md) | 2015 | ★★★★☆ | 25 | Completed | Home |
-| [Haikyu!! (Season 3)](titles/haikyu/season_3.md) | 2016 | ★★★★★ | 10 | Completed | Home |
-| [Haikyu!! (Season 4)](titles/haikyu/season_4.md) | 2020 | ★★★★★ | 25 | Completed | Home |
+| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | 2014 | ★★★★★ | 25 | Completed | Crunchyroll |
+| [Haikyu!! (Season 2)](titles/haikyu/season_2.md) | 2015 | ★★★★☆ | 25 | Completed | Crunchyroll |
+| [Haikyu!! (Season 3)](titles/haikyu/season_3.md) | 2016 | ★★★★★ | 10 | Completed | Crunchyroll |
+| [Haikyu!! (Season 4)](titles/haikyu/season_4.md) | 2020 | ★★★★★ | 25 | Completed | Crunchyroll |
 
 
 ---
