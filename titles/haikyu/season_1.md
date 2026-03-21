@@ -20,6 +20,15 @@
 | Country            | Japan                       |
 
 
+## Series Navigation
+
+| | |
+|:---|:---|
+| **Prequel** | — *(This is the first season)* |
+| **Sequel** | [Haikyu!! — Season 2](season_2.md) ★★★★☆ (4/5) |
+
+---
+
 ## Overview
 
 Hinata Shoyo, a short but passionate middle schooler, falls in love with volleyball after watching a legendary player known as "the Little Giant" compete. Despite his height, he dreams of dominating the court. After a crushing defeat at the hands of Kageyama Tobio—a prodigious setter dubbed the "King of the Court"—in his first and only middle school match, Hinata vows revenge. Upon entering Karasuno High School, he finds himself on the same team as his rival. The two must learn to set aside their differences and combine their contrasting skills to lead Karasuno back to its former glory as a powerhouse volleyball team.

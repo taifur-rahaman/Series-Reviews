@@ -1,6 +1,6 @@
 # Haikyu!! - Season 3: Karasuno High School vs. Shiratorizawa Academy
 
-![Series Cover](../../utils/covers/haikyu.png)
+![Series Cover](../../utils/covers/haikyuS3.webp)
 
 
 | |                             |
@@ -19,6 +19,15 @@
 | Language           | English (Dub)               |
 | Country            | Japan                       |
 
+
+## Series Navigation
+
+| | |
+|:---|:---|
+| **Prequel** | [Haikyu!! — Season 2](season_2.md) ★★★★☆ (4/5) |
+| **Sequel** | [Haikyu!! — Season 4: To The Top](season_4.md) ★★★★★ (5/5) |
+
+---
 
 ## Overview
 

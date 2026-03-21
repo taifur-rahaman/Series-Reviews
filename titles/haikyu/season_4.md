@@ -1,6 +1,6 @@
 # Haikyu!! - Season 4: To The Top
 
-![Series Cover](../../utils/covers/haikyu.png)
+![Series Cover](../../utils/covers/haikyuS4.webp)
 
 
 | |                             |
@@ -19,6 +19,15 @@
 | Language           | English (Dub)               |
 | Country            | Japan                       |
 
+
+## Series Navigation
+
+| | |
+|:---|:---|
+| **Prequel** | [Haikyu!! — Season 3: Karasuno vs. Shiratorizawa](season_3.md) ★★★★★ (5/5) |
+| **Sequel** | *Haikyu!! The Dumpster Battle* (2024 film) — not yet reviewed |
+
+---
 
 ## Overview
 

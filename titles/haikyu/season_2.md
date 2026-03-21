@@ -20,6 +20,15 @@
 | Country            | Japan                       |
 
 
+## Series Navigation
+
+| | |
+|:---|:---|
+| **Prequel** | [Haikyu!! — Season 1](season_1.md) ★★★★★ (5/5) |
+| **Sequel** | [Haikyu!! — Season 3](season_3.md) ★★★★★ (5/5) |
+
+---
+
 ## Overview
 
 Following the devastating loss to Aoba Johsai in the Interhigh, Karasuno must rebuild and evolve. Season 2 is split between a Tokyo training camp arc — where Karasuno trains alongside rival schools including Nekoma and Fukurodani — and the Spring High Preliminary tournament, culminating in rematches against familiar enemies with upgraded weapons. This is the season where individual characters stop being archetypes and become genuinely complex people.
