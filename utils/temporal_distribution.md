@@ -53,10 +53,11 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Genre** | **Series Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Isekai | 2 | 10h 32m | 4.5/5 |
+| Isekai | 0 | 0h 0m | N/A |
 | Slice of Life | 0 | 0h 0m | N/A |
-| Gourmet | 0 | 0h 0m | N/A |
-| Action & Fantasy | 1 | 4h 48m | 4.5/5 |
+| Gourmet | 1 | 6h 0m | 4.5/5 |
+| Medical | 1 | 4h 48m | 4.5/5 |
+| Action & Fantasy | 0 | 0h 0m | N/A |
 | Drama & Romance | 0 | 0h 0m | N/A |
 | Sports | 4 | 34h 0m | 4.75/5 |
 

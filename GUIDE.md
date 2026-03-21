@@ -32,6 +32,7 @@ Series-Reviews/
 - **Isekai**
 - **Slice of Life**
 - **Gourmet**
+- **Medical**
 - **Action & Fantasy**
 - **Drama & Romance**
 

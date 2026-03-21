@@ -22,6 +22,7 @@
 | └─ [🌀 Isekai](#-isekai) | Reincarnated or transported to another world |
 | └─ [🍕 Slice of Life](#-slice-of-life) | Daily life stories |
 | └─ [🍱 Gourmet](#-gourmet) | Delicious food and cooking |
+| └─ [🏥 Medical](#-medical) | Medicine, healing, and healthcare stories |
 | └─ [⚔️ Action & Fantasy](#-action--fantasy) | Battles and magical worlds |
 | └─ [🎭 Drama & Romance](#-drama--romance) | Emotional stories and relationships |
 | └─ [🏐 Sports](#-sports) | Competitive sports and team spirit |
@@ -175,11 +176,17 @@
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Isekai Izakaya (Season 1)](titles/isekai_izakaya/season_1.md) | 2018 | ★★★★⯪ | 24 | Completed | Home |
 
-### ⚔️ Action & Fantasy
+### 🏥 Medical
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Parallel World Pharmacy (Season 1)](titles/parallel_world_pharmacy/season_1.md) | 2022 | ★★★★⯪ | 12 | Completed | Home |
+
+### ⚔️ Action & Fantasy
+
+| 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+*No series logged yet.*
 
 ### 🎭 Drama & Romance
 
