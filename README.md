@@ -32,11 +32,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **6 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **14h 48m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **47 Episodes** | *Episodes Completed* |
-| **✅ Series Completed** | **2 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **4 Active** | *Stories Unfolding* |
+| **📜 Series Logged** | **9 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **49h 36m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **132 Episodes** | *Episodes Completed* |
+| **✅ Series Completed** | **6 Series** | *Journeys Finished* |
+| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
 ---
 
@@ -50,7 +50,6 @@
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
-| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | Anime – Sports | Home | Mar 14, 2026 | 7 / 25 | Watching |
 
 ---
 
@@ -192,12 +191,15 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | 2014 | TBD | 25 | Watching | Home |
+| [Haikyu!! (Season 1)](titles/haikyu/season_1.md) | 2014 | ★★★★★ | 25 | Completed | Home |
+| [Haikyu!! (Season 2)](titles/haikyu/season_2.md) | 2015 | ★★★★☆ | 25 | Completed | Home |
+| [Haikyu!! (Season 3)](titles/haikyu/season_3.md) | 2016 | ★★★★★ | 10 | Completed | Home |
+| [Haikyu!! (Season 4)](titles/haikyu/season_4.md) | 2020 | ★★★★★ | 25 | Completed | Home |
 
 
 ---
 
 *The Series Archives*  
-*Last Updated: 14th March 2026*
+*Last Updated: 21st March 2026*
 
 </div>

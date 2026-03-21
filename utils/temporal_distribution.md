@@ -1,6 +1,6 @@
 # Temporal Distribution - Series
 
-> **Last Updated:** 14th March 2026
+> **Last Updated:** 21st March 2026
 
 This document tracks the temporal distribution of TV series watched, organized by year of release and viewing time.
 
@@ -10,11 +10,11 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Logged** | 6 |
-| **Series Completed** | 2 |
-| **Currently Watching** | 4 |
-| **Total Episodes Watched** | 47 |
-| **Total Watch Time** | 14h 48m |
+| **Total Series Logged** | 9 |
+| **Series Completed** | 6 |
+| **Currently Watching** | 3 |
+| **Total Episodes Watched** | 132 |
+| **Total Watch Time** | 49h 36m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -27,8 +27,11 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---:|:---:|:---:|:---|
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 | 2022 | 1 | 4h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
+| 2020 | 1 | 10h 0m | [Haikyu!! (S4)](../titles/haikyu/season_4.md) |
 | 2018 | 2 | 7h 12m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
-| 2014 | 1 | 2h 48m | [Haikyu!! (S1)](../titles/haikyu/season_1.md) |
+| 2016 | 1 | 4h 0m | [Haikyu!! (S3)](../titles/haikyu/season_3.md) |
+| 2015 | 1 | 10h 0m | [Haikyu!! (S2)](../titles/haikyu/season_2.md) |
+| 2014 | 1 | 10h 0m | [Haikyu!! (S1)](../titles/haikyu/season_1.md) |
 | 2005 | 1 | 0h 0m | [Ben 10 (S1)](../titles/ben_10/season_1.md) |
 
 ---
@@ -55,7 +58,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | Gourmet | 0 | 0h 0m | N/A |
 | Action & Fantasy | 1 | 4h 48m | 4.5/5 |
 | Drama & Romance | 0 | 0h 0m | N/A |
-| Sports | 1 | 2h 48m | N/A |
+| Sports | 4 | 34h 0m | 4.75/5 |
 
 ---
 
@@ -66,7 +69,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 4 | 40 | 12h 0m |
-| March 2026 | 1 | 7 | 2h 48m |
+| March 2026 | 5 | 92 | 37h 36m |
 
 ---
 
@@ -74,8 +77,12 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Rank** | **Series** | **Year** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---|:---:|
-| 1 | [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 2022 | 4.5/5 | Isekai / Medical | Completed |
-| 2 | [Isekai Izakaya (Season 1)](../titles/isekai_izakaya/season_1.md) | 2018 | 4.5/5 | Isekai / Gourmet | Completed |
+| 1 | [Haikyu!! (Season 1)](../titles/haikyu/season_1.md) | 2014 | 5/5 | Sports / Shonen | Completed |
+| 2 | [Haikyu!! (Season 3)](../titles/haikyu/season_3.md) | 2016 | 5/5 | Sports / Shonen | Completed |
+| 3 | [Haikyu!! (Season 4)](../titles/haikyu/season_4.md) | 2020 | 5/5 | Sports / Shonen | Completed |
+| 4 | [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 2022 | 4.5/5 | Isekai / Medical | Completed |
+| 5 | [Isekai Izakaya (Season 1)](../titles/isekai_izakaya/season_1.md) | 2018 | 4.5/5 | Isekai / Gourmet | Completed |
+| 6 | [Haikyu!! (Season 2)](../titles/haikyu/season_2.md) | 2015 | 4/5 | Sports / Shonen | Completed |
 
 ---
 
@@ -86,7 +93,6 @@ This document tracks the temporal distribution of TV series watched, organized b
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | TBD | TBD | Just Started |
 | [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 8 | 21 | 38% |
 | [Ben 10 (Season 1)](../titles/ben_10/season_1.md) | 0 | 13 | Just Started |
-| [Haikyu!! (Season 1)](../titles/haikyu/season_1.md) | 7 | 25 | 28% |
 
 ---
 
