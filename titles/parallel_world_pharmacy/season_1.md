@@ -15,7 +15,7 @@
 | Episodes Watched   | 12                          |
 | Average Runtime    | 24 mins                     |
 | Rating             | 4.5/5                       |
-| Platform           | Home                        |
+| Platform           | Crunchyroll                 |
 | Language           | Japanese                    |
 | Country            | Japan                       |
 
