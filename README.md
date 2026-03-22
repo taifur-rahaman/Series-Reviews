@@ -33,11 +33,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **8 Series** | *Stories Documented* |
+| **📜 Series Logged** | **9 Series** | *Stories Documented* |
 | **⏳ Hours Watched** | **48h 08m** | *Total Watch Time* |
 | **📺 Episodes Watched** | **124 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **6 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
 ---
 
@@ -48,6 +48,7 @@
 
 | **Series** | **Genre** | **Platform** | **Started** | **Watched** | **Status** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Mansion 24 (Season 1)](titles/mansion_24/season_1.md) | Horror & Thriller | Hotstar | Mar 22, 2026 | 0 / 6 | Watching |
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
 
@@ -133,6 +134,7 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Mansion 24 (Season 1)](titles/mansion_24/season_1.md) | 2023 | TBD | 6 | Watching | Hotstar |
 | [Bhay (Season 1)](titles/bhay/season_1.md) | 2025 | TBD | TBD | Watching | Home |
 
 ---
