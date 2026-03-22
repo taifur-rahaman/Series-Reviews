@@ -12,7 +12,7 @@
 | Watch Start Date   | 22nd March 2026             |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 6                           |
-| Episodes Watched   | 0                           |
+| Episodes Watched   | 1                           |
 | Average Runtime    | ~30 mins                    |
 | Rating             | TBD                         |
 | Platform           | Hotstar                     |
@@ -42,9 +42,9 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 ## Episode Breakdown
 
 ### Episode 1
-- **Title:** [Title]
-- **Rating:** [Rating]
-- **Notes:** [Observations]
+- **Title:** The Missing Archaeologist
+- **Rating:** ★★★★★
+- **Notes:** An incredibly atmospheric start. The introduction to Amrutha's quest to find her father Kalidas sets a deeply engaging mystery. The warnings about the mansion are chilling, and the watchman Seetharam's ominous tales immediately pull you into the paranormal tension. A perfect 5/5 opening that firmly establishes the dread and stakes.
 
 *(Add more episodes/notes as needed)*
 
