@@ -1,6 +1,6 @@
 # Mansion 24 - Season 1
 
-![Mansion 24 Series Cover](../../utils/covers/mansion_24_season_1.png)
+![Mansion 24 Series Cover](../../utils/covers/mansion_24_season_1.jpg)
 
 
 | |                             |
