@@ -44,7 +44,7 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 ### Episode 1
 - **Title:** The Missing Archaeologist
 - **Rating:** ★★★★★
-- **Notes:** An incredibly atmospheric start. The introduction to Amrutha's quest to find her father Kalidas sets a deeply engaging mystery. The warnings about the mansion are chilling, and the watchman Seetharam's ominous tales immediately pull you into the paranormal tension. A perfect 5/5 opening that firmly establishes the dread and stakes.
+- **Notes:** An incredibly atmospheric start. The introduction to Amrutha's quest to find her father Kalidas sets a deeply engaging mystery. The warnings about the mansion are chilling, and the watchman Seetharam's ominous tales immediately pull you into the paranormal tension. The episode introduces an eerie story involving a novelist, young children, and a mysterious shoe that significantly deepens the intrigue. A perfect 5/5 opening that firmly establishes the dread and stakes.
 
 *(Add more episodes/notes as needed)*
 
