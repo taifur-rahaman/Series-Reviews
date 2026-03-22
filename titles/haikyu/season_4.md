@@ -25,7 +25,7 @@
 | | |
 |:---|:---|
 | **Prequel** | [Haikyu!! — Season 3: Karasuno vs. Shiratorizawa](season_3.md) ★★★★★ (5/5) |
-| **Sequel** | *Haikyu!! The Dumpster Battle* (2024 film) — not yet reviewed |
+| **Sequel** | [*Haikyu!! The Dumpster Battle* (2024 film)](https://github.com/taifur-rahaman/Movie-Reviews/blob/main/titles/haikyu_the_dumpster_battle.md) ★★★⯪☆ (7.5/10) |
 
 ---
 
