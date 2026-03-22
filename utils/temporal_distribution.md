@@ -10,11 +10,11 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Logged** | 9 |
+| **Total Series Logged** | 8 |
 | **Series Completed** | 6 |
-| **Currently Watching** | 3 |
-| **Total Episodes Watched** | 132 |
-| **Total Watch Time** | 49h 36m |
+| **Currently Watching** | 2 |
+| **Total Episodes Watched** | 124 |
+| **Total Watch Time** | 48h 08m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
 | 2022 | 1 | 4h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
 | 2020 | 1 | 10h 0m | [Haikyu!! (S4)](../titles/haikyu/season_4.md) |
-| 2018 | 2 | 7h 12m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md), [The Neighborhood (S1)](../titles/the_neighborhood/season_1.md) |
+| 2018 | 1 | 5h 44m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md) |
 | 2016 | 1 | 4h 0m | [Haikyu!! (S3)](../titles/haikyu/season_3.md) |
 | 2015 | 1 | 10h 0m | [Haikyu!! (S2)](../titles/haikyu/season_2.md) |
 | 2014 | 1 | 10h 0m | [Haikyu!! (S1)](../titles/haikyu/season_1.md) |
@@ -42,7 +42,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 |:---|:---:|:---:|:---:|
 | Action & Adventure | 1 | 0h 0m | N/A |
 | Drama | 0 | 0h 0m | N/A |
-| Comedy | 1 | 1h 28m | N/A |
+| Comedy | 0 | 0h 0m | N/A |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
@@ -69,7 +69,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 4 | 40 | 12h 0m |
+| February 2026 | 3 | 32 | 10h 32m |
 | March 2026 | 5 | 92 | 37h 36m |
 
 ---
@@ -92,7 +92,6 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Series** | **Current Episode** | **Total Episodes** | **Progress** |
 |:---|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | TBD | TBD | Just Started |
-| [The Neighborhood (Season 1)](../titles/the_neighborhood/season_1.md) | 8 | 21 | 38% |
 | [Ben 10 (Season 1)](../titles/ben_10/season_1.md) | 0 | 13 | Just Started |
 
 ---

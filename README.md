@@ -33,11 +33,11 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Series Logged** | **9 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **49h 36m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **132 Episodes** | *Episodes Completed* |
+| **📜 Series Logged** | **8 Series** | *Stories Documented* |
+| **⏳ Hours Watched** | **48h 08m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **124 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **6 Series** | *Journeys Finished* |
-| **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
 ---
 
@@ -49,7 +49,6 @@
 | **Series** | **Genre** | **Platform** | **Started** | **Watched** | **Status** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
-| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | Comedy | Home | Feb 13, 2026 | 8 / 21 | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
 
 ---
@@ -86,7 +85,8 @@
 
 | 📜 **Series** | 📅 **Year** | 🌟 **Rating** | 📺 **Episodes** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [The Neighborhood (Season 1)](titles/the_neighborhood/season_1.md) | 2018 | TBD | 21 | Watching | Home |
+
+*No series logged yet. Add your first comedy!*
 
 ---
 
