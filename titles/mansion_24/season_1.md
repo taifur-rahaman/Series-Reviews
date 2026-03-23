@@ -8,13 +8,13 @@
 | Release Date       | 17th October 2023           |
 | Creator/Showrunner | Ohmkar                      |
 | Genre              | Horror / Thriller           |
-| Status             | Watching                    |
+| Status             | Completed                   |
 | Watch Start Date   | 22nd March 2026             |
-| Watch End Date     | Ongoing                     |
+| Watch End Date     | 23rd March 2026             |
 | Total Episodes     | 6                           |
-| Episodes Watched   | 3                           |
+| Episodes Watched   | 6                           |
 | Average Runtime    | ~30 mins                    |
-| Rating             | TBD                         |
+| Rating             | 6.5/10 (★★★⯪☆)              |
 | Platform           | Hotstar                     |
 | Language           | Hindi                       |
 | Country            | India                       |
@@ -25,19 +25,19 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 
 ## Season 1 Story & Arc
 
-*(To be updated as I watch)*
+*(Amrutha's journey through the mansion unfolds through a series of chilling tales narrated by the watchman. As each story concludes, Amrutha pieces together the truth behind her father's visit to Room 24.)*
 
 ## Characters & Development
 
-*(To be updated as I watch)*
+*(Amrutha shows determination in the face of the supernatural. The various anthology characters are mostly tragic figures who fall victim to the mansion's dark influence.)*
 
 ## Performances & Direction
 
-*(To be updated as I watch)*
+*(Varalaxmi Sarathkumar anchors the series well, and the direction effectively maintains an eerie, atmospheric dread throughout the episodes.)*
 
 ## Themes & Impact
 
-*(To be updated as I watch)*
+*(The series touches upon themes of superstition, blind faith, hidden sins, and the supernatural consequences of human actions.)*
 
 ## Episode Breakdown
 
@@ -55,13 +55,26 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 - **Rating:** ★★★½☆
 - **Notes:** This episode gave us another of the watchman's unsettling tales, this time focusing on a village matriarch, Devudamma, who is revered almost as a god. The central premise—her deathbed promise to return to life, and her family's subsequent obsessive belief in this superstition—adds an intriguing psychological layer to the horror. Amrutha's real-world struggles with her mother's illness also ground the narrative amidst the supernatural stories. While the suspense is built effectively around the family's blind faith, the pacing felt slightly slower. Still, it delivers a solid eerie atmosphere, earning a 3.5/5.
 
-*(Add more episodes/notes as needed)*
+### Episode 4
+- **Title:** Career Or Child
+- **Rating:** ★★★☆☆
+- **Notes:** This episode follows a pregnant classical dancer haunted by the cries of a baby. Her hypnotherapy sessions uncover dark secrets of surveillance and trauma. It's a solid psychological thriller episode.
+
+### Episode 5
+- **Title:** Straight Out Of "Fresh"
+- **Rating:** ★★★☆☆
+- **Notes:** One of the darker tales, centering on a psychotic sculptor who targets marginalized women. The grotesque elements and the eventual supernatural justice meted out make it an intense, albeit disturbing, entry.
+
+### Episode 6
+- **Title:** The Room 24
+- **Rating:** ★★★⯪☆
+- **Notes:** The season finale brings the disparate threads together as Amrutha finally uncovers the secrets of room 24 and the truth behind her father's disappearance. A satisfying conclusion that explains the supernatural elements while leaving lingering dread.
 
 ## Verdict
 
-**Season Rating: TBD**
+**Season Rating: 6.5/10 (★★★⯪☆)**
 
-*(Pending completion)*
+*(Mansion 24 is a compelling anthology-style horror series that uses its framing narrative effectively. While some episodes hit harder than others, the eerie atmosphere and consistent pacing make it a worthwhile watch for horror enthusiasts.)*
 
 ---
 
@@ -69,13 +82,13 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 
 | Category | Score | Notes |
 |---|---|---|
-| **Cinematography** | **-** | - |
-| **Plot** | **-** | - |
-| **Story** | **-** | - |
-| **Character Development** | **-** | - |
-| **Pacing** | **-** | - |
-| **Enjoyment** | **-** | - |
-| **Overall** | **-** | **Watching** |
+| **Cinematography** | **7/10** | Great use of shadows and set design. |
+| **Plot** | **6/10** | Anthology stories vary in quality. |
+| **Story** | **6.5/10** | The overarching mystery is intriguing. |
+| **Character Development** | **6/10** | Focuses more on narrative than deep character arcs. |
+| **Pacing** | **6.5/10** | Keeps the tension going, but sags occasionally. |
+| **Enjoyment** | **7/10** | A fun, spooky ride. |
+| **Overall** | **6.5/10** | **Completed** |
 
 ---
 

@@ -11,10 +11,10 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Logged** | 9 |
-| **Series Completed** | 6 |
-| **Currently Watching** | 3 |
-| **Total Episodes Watched** | 127 |
-| **Total Watch Time** | 49h 38m |
+| **Series Completed** | 7 |
+| **Currently Watching** | 2 |
+| **Total Episodes Watched** | 130 |
+| **Total Watch Time** | 51h 08m |
 | **Average Episode Length** | N/A |
 | **Most Watched Year** | N/A |
 | **Most Watched Genre** | N/A |
@@ -26,7 +26,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Year** | **Series Watched** | **Total Runtime** | **Series** |
 |:---:|:---:|:---:|:---|
 | 2025 | 1 | 0h 0m | [Bhay (S1)](../titles/bhay/season_1.md) |
-| 2023 | 1 | 1h 30m | [Mansion 24 (S1)](../titles/mansion_24/season_1.md) |
+| 2023 | 1 | 3h 0m | [Mansion 24 (S1)](../titles/mansion_24/season_1.md) |
 | 2022 | 1 | 4h 48m | [Parallel World Pharmacy (S1)](../titles/parallel_world_pharmacy/season_1.md) |
 | 2020 | 1 | 10h 0m | [Haikyu!! (S4)](../titles/haikyu/season_4.md) |
 | 2018 | 1 | 5h 44m | [Isekai Izakaya (S1)](../titles/isekai_izakaya/season_1.md) |
@@ -47,7 +47,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 2 | 1h 30m | N/A |
+| Horror | 2 | 3h 0m | 6.5/10 |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ### 🎯 Time by Anime Genre
@@ -71,7 +71,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | **Month** | **Series Started** | **Episodes Watched** | **Total Runtime** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 3 | 32 | 10h 32m |
-| March 2026 | 6 | 95 | 39h 06m |
+| March 2026 | 6 | 98 | 40h 36m |
 
 ---
 
@@ -85,6 +85,7 @@ This document tracks the temporal distribution of TV series watched, organized b
 | 4 | [Parallel World Pharmacy (Season 1)](../titles/parallel_world_pharmacy/season_1.md) | 2022 | 4.5/5 | Isekai / Medical | Completed |
 | 5 | [Isekai Izakaya (Season 1)](../titles/isekai_izakaya/season_1.md) | 2018 | 4.5/5 | Isekai / Gourmet | Completed |
 | 6 | [Haikyu!! (Season 2)](../titles/haikyu/season_2.md) | 2015 | 4/5 | Sports / Shonen | Completed |
+| 7 | [Mansion 24 (Season 1)](../titles/mansion_24/season_1.md) | 2023 | 6.5/10 | Horror / Thriller | Completed |
 
 ---
 
@@ -92,7 +93,6 @@ This document tracks the temporal distribution of TV series watched, organized b
 
 | **Series** | **Current Episode** | **Total Episodes** | **Progress** |
 |:---|:---:|:---:|:---:|
-| [Mansion 24 (Season 1)](../titles/mansion_24/season_1.md) | 3 | 6 | Watching |
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](../titles/bhay/season_1.md) | TBD | TBD | Just Started |
 | [Ben 10 (Season 1)](../titles/ben_10/season_1.md) | 0 | 13 | Just Started |
 
