@@ -25,19 +25,19 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 
 ## Season 1 Story & Arc
 
-*(Amrutha's journey through the mansion unfolds through a series of chilling tales narrated by the watchman. As each story concludes, Amrutha pieces together the truth behind her father's visit to Room 24.)*
+Amrutha's journey through the mansion unfolds through a series of chilling tales narrated by the watchman. As each story concludes, Amrutha pieces together the truth behind her father's visit to Room 24.
 
 ## Characters & Development
 
-*(Amrutha shows determination in the face of the supernatural. The various anthology characters are mostly tragic figures who fall victim to the mansion's dark influence.)*
+Amrutha shows determination in the face of the supernatural. The various anthology characters are mostly tragic figures who fall victim to the mansion's dark influence.
 
 ## Performances & Direction
 
-*(Varalaxmi Sarathkumar anchors the series well, and the direction effectively maintains an eerie, atmospheric dread throughout the episodes.)*
+Varalaxmi Sarathkumar anchors the series well, and the direction effectively maintains an eerie, atmospheric dread throughout the episodes.
 
 ## Themes & Impact
 
-*(The series touches upon themes of superstition, blind faith, hidden sins, and the supernatural consequences of human actions.)*
+The series touches upon themes of superstition, blind faith, hidden sins, and the supernatural consequences of human actions.
 
 ## Episode Breakdown
 
@@ -74,7 +74,7 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 
 **Season Rating: 6.5/10 (★★★⯪☆)**
 
-*(Mansion 24 is a compelling anthology-style horror series that uses its framing narrative effectively. While some episodes hit harder than others, the eerie atmosphere and consistent pacing make it a worthwhile watch for horror enthusiasts.)*
+Mansion 24 is a compelling anthology-style horror series that uses its framing narrative effectively. While some episodes hit harder than others, the eerie atmosphere and consistent pacing make it a worthwhile watch for horror enthusiasts.
 
 ---
 
@@ -94,13 +94,16 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 
 ## Personal Notes & Observations
 
-*(Raw thoughts, memorable quotes, scenes that stood out, or any additional context)*
+The episodic structure kept the pacing fairly brisk, with each watchman's tale effectively adding to the overall dread. The connection between the separate stories and the overarching mystery of Kalidas was well constructed, making the final revelation feel earned rather than abrupt.
 
 - Started watching on Mar 22nd, 2026.
+- Finished watching on Mar 23rd, 2026.
 
 ### Memorable Moments
 
-*(To be added)*
+- The creepy discovery of the hidden baby monitor and stalker clues in Episode 4.
+- The disturbing realism and dread of the sculptor's basement lair in Episode 5.
+- The climactic unlocking of Room 24 in the season finale.
 
 ---
 
