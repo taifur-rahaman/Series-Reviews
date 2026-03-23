@@ -12,7 +12,7 @@
 | Watch Start Date   | 22nd March 2026             |
 | Watch End Date     | Ongoing                     |
 | Total Episodes     | 6                           |
-| Episodes Watched   | 2                           |
+| Episodes Watched   | 3                           |
 | Average Runtime    | ~30 mins                    |
 | Rating             | TBD                         |
 | Platform           | Hotstar                     |
@@ -50,6 +50,10 @@ Amrutha, an investigative journalist, searches for her missing father Kalidas, a
 - **Title:** An Affair Gone Wrong
 - **Rating:** ★★★☆☆
 - **Notes:** So this episode follows the same anthology-within-a-story format as the first one — Amrutha heads to the mansion to talk to the watchman Seetharam again, and he kicks off another creepy tale. This time it's about a pharmacy girl who's caught up in a secret affair with a married man. The whole setup is pretty relatable at first — hidden messages, sneaky meet-ups, that kind of drama — before it takes a sharp dark turn. The guy basically becomes unhinged: he shows up at her apartment late at night acting super paranoid, telling her to keep everything hush-hush, and you can just feel that something really bad is coming. And sure enough, it does — the lover ends up murdering her to protect his secret life. It's a grim little tale with some genuinely tense moments, especially the confrontation scene at her apartment. That said, the episode doesn't quite hit the same high as the opener. The atmosphere is still solid and the horror elements work, but the story feels a bit more predictable this time around — once you see where the relationship is heading, the ending isn't much of a surprise. Still an engaging watch, just not as gripping as episode one.
+### Episode 3
+- **Title:** Shadows Or Guidance?
+- **Rating:** ★★★½☆
+- **Notes:** This episode gave us another of the watchman's unsettling tales, this time focusing on a village matriarch, Devudamma, who is revered almost as a god. The central premise—her deathbed promise to return to life, and her family's subsequent obsessive belief in this superstition—adds an intriguing psychological layer to the horror. Amrutha's real-world struggles with her mother's illness also ground the narrative amidst the supernatural stories. While the suspense is built effectively around the family's blind faith, the pacing felt slightly slower. Still, it delivers a solid eerie atmosphere, earning a 3.5/5.
 
 *(Add more episodes/notes as needed)*
 

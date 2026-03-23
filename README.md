@@ -34,8 +34,8 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Series Logged** | **9 Series** | *Stories Documented* |
-| **⏳ Hours Watched** | **49h 08m** | *Total Watch Time* |
-| **📺 Episodes Watched** | **126 Episodes** | *Episodes Completed* |
+| **⏳ Hours Watched** | **49h 38m** | *Total Watch Time* |
+| **📺 Episodes Watched** | **127 Episodes** | *Episodes Completed* |
 | **✅ Series Completed** | **6 Series** | *Journeys Finished* |
 | **📺 Currently Watching** | **3 Active** | *Stories Unfolding* |
 
@@ -48,7 +48,7 @@
 
 | **Series** | **Genre** | **Platform** | **Started** | **Watched** | **Status** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Mansion 24 (Season 1)](titles/mansion_24/season_1.md) | Horror & Thriller | Hotstar | Mar 22, 2026 | 2 / 6 | Watching |
+| [Mansion 24 (Season 1)](titles/mansion_24/season_1.md) | Horror & Thriller | Hotstar | Mar 22, 2026 | 3 / 6 | Watching |
 | [Bhay: The Gaurav Tiwari Mystery (Season 1)](titles/bhay/season_1.md) | Horror | Home | Feb 4, 2026 | TBD / TBD | Watching |
 | [Ben 10 (Season 1)](titles/ben_10/season_1.md) | Action & Adventure | Home | Mar 10, 2026 | 0 / 13 | Watching |
 
